@@ -1,0 +1,9 @@
+name = "pusha_personality_test"
+type = "webpack"
+account_id = "<account_id>"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./public"

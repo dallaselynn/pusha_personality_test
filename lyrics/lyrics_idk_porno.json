@@ -1,0 +1,1052 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/4837697",
+ "full_title": "Porno by\u00a0IDK (Ft.\u00a0JID & Pusha\u00a0T)",
+ "header_image_thumbnail_url": "https://images.genius.com/b77211ed800701c5cc8dc9a5a6ec95fa.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b77211ed800701c5cc8dc9a5a6ec95fa.1000x1000x1.jpg",
+ "id": 4837697,
+ "instrumental": false,
+ "lyrics_owner_id": 6612308,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1581537050,
+ "path": "/Idk-porno-lyrics",
+ "pyongs_count": 9,
+ "song_art_image_thumbnail_url": "https://images.genius.com/b77211ed800701c5cc8dc9a5a6ec95fa.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b77211ed800701c5cc8dc9a5a6ec95fa.1000x1000x1.jpg",
+ "stats": {
+  "accepted_annotations": 7,
+  "contributors": 62,
+  "iq_earners": 62,
+  "transcribers": 4,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "hot": false,
+  "pageviews": 78850
+ },
+ "title": "Porno",
+ "title_with_featured": "Porno (Ft.\u00a0JID & Pusha\u00a0T)",
+ "updated_by_human_at": 1581537050,
+ "url": "https://genius.com/Idk-porno-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/173100",
+  "header_image_url": "https://images.genius.com/1a3a56d14e7ec21d10ef8b2401d17367.800x1000x1.jpg",
+  "id": 173100,
+  "image_url": "https://images.genius.com/fa73b27f25a84132d21e05a54e1a8df2.280x280x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "IDK",
+  "url": "https://genius.com/artists/Idk",
+  "iq": 2026
+ },
+ "apple_music_id": "1478432908",
+ "apple_music_player_url": "https://genius.com/songs/4837697/apple_music_player",
+ "description": {
+  "plain": "\u201cPorno\u201d marks the first collaboration between IDK, JID and rap legend Pusha-T. On the track, IDK boasts about his relationships with bad women, Pusha describes his woman\u2019s love for men who commit felonies, and JID sets the scene for a sexual rendezvous with his significant other.\n\nA snippet of the track was teased in a video for an IDK tour announcement."
+ },
+ "embed_content": "<div id='rg_embed_link_4837697' class='rg_embed_link' data-song-id='4837697'>Read <a href='https://genius.com/Idk-porno-lyrics'>\u201cPorno\u201d by IDK</a> on Genius</div> <script crossorigin src='//genius.com/songs/4837697/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2019-09-04",
+ "release_date_for_display": "September 4, 2019",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/510611",
+  "cover_art_url": "https://images.genius.com/b77211ed800701c5cc8dc9a5a6ec95fa.1000x1000x1.jpg",
+  "full_title": "Is He Real? by IDK",
+  "id": 510611,
+  "name": "Is He Real?",
+  "url": "https://genius.com/albums/Idk/Is-he-real",
+  "artist": {
+   "api_path": "/artists/173100",
+   "header_image_url": "https://images.genius.com/1a3a56d14e7ec21d10ef8b2401d17367.800x1000x1.jpg",
+   "id": 173100,
+   "image_url": "https://images.genius.com/fa73b27f25a84132d21e05a54e1a8df2.280x280x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "IDK",
+   "url": "https://genius.com/artists/Idk",
+   "iq": 2026
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Mentioned",
+   "artists": [
+    {
+     "api_path": "/artists/1185435",
+     "header_image_url": "https://images.genius.com/4cf8463534cd134a0438e4ce7e752be5.1000x1000x1.png",
+     "id": 1185435,
+     "image_url": "https://images.genius.com/706db0c8eba10dab22691b14afbdc387.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Baby Keem",
+     "url": "https://genius.com/artists/Baby-keem",
+     "iq": 291
+    }
+   ]
+  },
+  {
+   "label": "Additional Vocals",
+   "artists": [
+    {
+     "api_path": "/artists/1940135",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1940135,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kapri Styles",
+     "url": "https://genius.com/artists/Kapri-styles"
+    },
+    {
+     "api_path": "/artists/1939104",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1939104,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lil Kymchii",
+     "url": "https://genius.com/artists/Lil-kymchii"
+    },
+    {
+     "api_path": "/artists/1939103",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1939103,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nnamdi Boardman",
+     "url": "https://genius.com/artists/Nnamdi-boardman"
+    },
+    {
+     "api_path": "/artists/1631926",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1631926,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Obi Nwadije",
+     "url": "https://genius.com/artists/Obi-nwadije"
+    }
+   ]
+  },
+  {
+   "label": "Distributor",
+   "artists": [
+    {
+     "api_path": "/artists/1112276",
+     "header_image_url": "https://images.genius.com/159917d9c26b9cfe66c0b04493a1f05a.900x900x1.png",
+     "id": 1112276,
+     "image_url": "https://images.genius.com/340e19086e9ebeae265e6e4947b0ffcb.900x900x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Music Group",
+     "url": "https://genius.com/artists/Warner-music-group"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/643736",
+     "header_image_url": "https://images.genius.com/5aa5b31645cc6fe93a10b28d6a13a4cd.813x813x1.jpg",
+     "id": 643736,
+     "image_url": "https://images.genius.com/5aa5b31645cc6fe93a10b28d6a13a4cd.813x813x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Neal Pogue",
+     "url": "https://genius.com/artists/Neal-pogue"
+    }
+   ]
+  },
+  {
+   "label": "Additional Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1154158",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1154158,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Calin Enache",
+     "url": "https://genius.com/artists/Calin-enache"
+    }
+   ]
+  },
+  {
+   "label": "Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1275403",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1275403,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eden Eliah Nagar",
+     "url": "https://genius.com/artists/Eden-eliah-nagar"
+    },
+    {
+     "api_path": "/artists/1154158",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1154158,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Calin Enache",
+     "url": "https://genius.com/artists/Calin-enache"
+    },
+    {
+     "api_path": "/artists/645043",
+     "header_image_url": "https://images.genius.com/df31d125ea54a569bff19a894eea77fe.1000x563x1.jpg",
+     "id": 645043,
+     "image_url": "https://images.genius.com/86b0f902537ca81ee78d0ad8f084d3e7.240x240x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Coleman",
+     "url": "https://genius.com/artists/Andrew-coleman"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/1838456",
+     "header_image_url": "https://images.genius.com/411248d5d79d7cf01a3958e44eaa3c1e.1000x1000x1.jpg",
+     "id": 1838456,
+     "image_url": "https://images.genius.com/411248d5d79d7cf01a3958e44eaa3c1e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Clue No Clue, LLC",
+     "url": "https://genius.com/artists/Clue-no-clue-llc"
+    },
+    {
+     "api_path": "/artists/1865634",
+     "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+     "id": 1865634,
+     "image_url": "https://images.genius.com/554957870ff9c69db846ef3ae07e5005.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Records",
+     "url": "https://genius.com/artists/Warner-records"
+    }
+   ]
+  },
+  {
+   "label": "Copyright \u00a9",
+   "artists": [
+    {
+     "api_path": "/artists/1838456",
+     "header_image_url": "https://images.genius.com/411248d5d79d7cf01a3958e44eaa3c1e.1000x1000x1.jpg",
+     "id": 1838456,
+     "image_url": "https://images.genius.com/411248d5d79d7cf01a3958e44eaa3c1e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Clue No Clue, LLC",
+     "url": "https://genius.com/artists/Clue-no-clue-llc"
+    },
+    {
+     "api_path": "/artists/1865634",
+     "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+     "id": 1865634,
+     "image_url": "https://images.genius.com/554957870ff9c69db846ef3ae07e5005.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Records",
+     "url": "https://genius.com/artists/Warner-records"
+    }
+   ]
+  },
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/1838456",
+     "header_image_url": "https://images.genius.com/411248d5d79d7cf01a3958e44eaa3c1e.1000x1000x1.jpg",
+     "id": 1838456,
+     "image_url": "https://images.genius.com/411248d5d79d7cf01a3958e44eaa3c1e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Clue No Clue, LLC",
+     "url": "https://genius.com/artists/Clue-no-clue-llc"
+    },
+    {
+     "api_path": "/artists/1865634",
+     "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+     "id": 1865634,
+     "image_url": "https://images.genius.com/554957870ff9c69db846ef3ae07e5005.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Warner Records",
+     "url": "https://genius.com/artists/Warner-records"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8117646,
+  "annotator_login": "TrappaChiNo",
+  "api_path": "/referents/17959318",
+  "classification": "accepted",
+  "fragment": "Porno",
+  "id": 17959318,
+  "is_description": true,
+  "path": "/17959318/Idk-porno/Porno",
+  "range": {
+   "content": "Porno"
+  },
+  "song_id": 4837697,
+  "url": "https://genius.com/17959318/Idk-porno/Porno",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/4837697",
+   "client_timestamps": {
+    "updated_by_human_at": 1581537050,
+    "lyrics_updated_at": 1581537050
+   },
+   "context": "IDK",
+   "id": 4837697,
+   "image_url": "https://images.genius.com/b77211ed800701c5cc8dc9a5a6ec95fa.1000x1000x1.jpg",
+   "link_title": "Porno by\u00a0IDK (Ft.\u00a0JID & Pusha\u00a0T)",
+   "title": "Porno",
+   "type": "Song",
+   "url": "https://genius.com/Idk-porno-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17959318",
+    "body": {
+     "plain": "\u201cPorno\u201d marks the first collaboration between IDK, JID and rap legend Pusha-T. On the track, IDK boasts about his relationships with bad women, Pusha describes his woman\u2019s love for men who commit felonies, and JID sets the scene for a sexual rendezvous with his significant other.\n\nA snippet of the track was teased in a video for an IDK tour announcement."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17959318,
+    "pinned": false,
+    "share_url": "https://genius.com/17959318",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/17959318/Idk-porno/Porno",
+    "verified": false,
+    "votes_total": 53,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.6229508196721312,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8117646",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/7367f5ae5b4de0f05a6ee48cc22833b7.1000x1000x8.gif",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8117646,
+       "iq": 435453,
+       "login": "TrappaChiNo",
+       "name": "TrappaChiNo",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/TrappaChiNo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.36065573770491804,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/756535",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/82a9d0fa16b9bc0263a854492d56b40c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/31bf862faf49fee02461e759e412ed1f.1000x666x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 756535,
+       "iq": 145780,
+       "login": "BrianErwin",
+       "name": "Brian Erwin",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/BrianErwin",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.01639344262295082,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5408923",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/87077145eff2cc784b24e0277242c5d2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/87077145eff2cc784b24e0277242c5d2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/87077145eff2cc784b24e0277242c5d2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/87077145eff2cc784b24e0277242c5d2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/87077145eff2cc784b24e0277242c5d2",
+       "human_readable_role_for_display": "Editor",
+       "id": 5408923,
+       "iq": 132417,
+       "login": "birder",
+       "name": "\u200bbirder",
+       "role_for_display": "editor",
+       "url": "https://genius.com/birder",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/324667",
+   "header_image_url": "https://images.genius.com/b466500ab2d3b2fb49570980116ad4dd.1000x465x1.jpg",
+   "id": 324667,
+   "image_url": "https://images.genius.com/b2b79e586d20df0c2a21943d2edf1e9e.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "JID",
+   "url": "https://genius.com/artists/Jid",
+   "iq": 3684
+  },
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  }
+ ],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/2976672",
+  "avatar": {
+   "tiny": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gjw8z3svfg",
+  "human_readable_role_for_display": "Staff",
+  "id": 2976672,
+  "iq": 116620,
+  "login": "GaryTheJerk",
+  "name": "GaryTheJerk",
+  "role_for_display": "staff",
+  "url": "https://genius.com/GaryTheJerk",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "attribution": "jayidk1",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/jayidk1/porno-feat-j-i-d-pusha-t?in=jayidk1/sets/is-he-real-1"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=N6Uh2HZat_s"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/205754",
+   "header_image_url": "https://images.genius.com/2a3d15b67dac3596487d80cf3041e8d5.500x500x1.jpg",
+   "id": 205754,
+   "image_url": "https://images.genius.com/2a3d15b67dac3596487d80cf3041e8d5.500x500x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Rascal",
+   "url": "https://genius.com/artists/Rascal"
+  },
+  {
+   "api_path": "/artists/173100",
+   "header_image_url": "https://images.genius.com/1a3a56d14e7ec21d10ef8b2401d17367.800x1000x1.jpg",
+   "id": 173100,
+   "image_url": "https://images.genius.com/fa73b27f25a84132d21e05a54e1a8df2.280x280x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "IDK",
+   "url": "https://genius.com/artists/Idk",
+   "iq": 2026
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/949350",
+     "full_title": "Fool Yourself by\u00a0Little\u00a0Feat",
+     "header_image_thumbnail_url": "https://images.genius.com/3045ea7fcd0c7aca9ce4b261289301bf.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/3045ea7fcd0c7aca9ce4b261289301bf.1000x1000x1.jpg",
+     "id": 949350,
+     "lyrics_owner_id": 5189856,
+     "lyrics_state": "complete",
+     "path": "/Little-feat-fool-yourself-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3045ea7fcd0c7aca9ce4b261289301bf.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3045ea7fcd0c7aca9ce4b261289301bf.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Fool Yourself",
+     "title_with_featured": "Fool Yourself",
+     "url": "https://genius.com/Little-feat-fool-yourself-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/309210",
+      "header_image_url": "https://images.genius.com/5d9dc81b92f020a360b5172027926181.306x306x1.jpg",
+      "id": 309210,
+      "image_url": "https://images.genius.com/5d9dc81b92f020a360b5172027926181.306x306x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Little Feat",
+      "url": "https://genius.com/artists/Little-feat"
+     }
+    },
+    {
+     "annotation_count": 46,
+     "api_path": "/songs/1807",
+     "full_title": "La Di Da Di by\u00a0Doug\u00a0E. Fresh & The Get Fresh Crew (Ft.\u00a0Slick\u00a0Rick)",
+     "header_image_thumbnail_url": "https://images.genius.com/92dc31d4c8610e97b409ab8768934d09.300x297x1.jpg",
+     "header_image_url": "https://images.genius.com/92dc31d4c8610e97b409ab8768934d09.317x314x1.jpg",
+     "id": 1807,
+     "lyrics_owner_id": 7,
+     "lyrics_state": "complete",
+     "path": "/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics",
+     "pyongs_count": 35,
+     "song_art_image_thumbnail_url": "https://images.genius.com/92dc31d4c8610e97b409ab8768934d09.300x297x1.jpg",
+     "song_art_image_url": "https://images.genius.com/92dc31d4c8610e97b409ab8768934d09.317x314x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 2,
+      "hot": false,
+      "pageviews": 295902
+     },
+     "title": "La Di Da Di",
+     "title_with_featured": "La Di Da Di (Ft.\u00a0Slick\u00a0Rick)",
+     "url": "https://genius.com/Doug-e-fresh-and-the-get-fresh-crew-la-di-da-di-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/665851",
+      "header_image_url": "https://images.genius.com/43edb7094bb19b816fe11180d609712e.480x360x1.jpg",
+      "id": 665851,
+      "image_url": "https://images.genius.com/da483386710c1a37b0ce1429e0794c70.596x596x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Doug E. Fresh & The Get Fresh Crew",
+      "url": "https://genius.com/artists/Doug-e-fresh-and-the-get-fresh-crew"
+     }
+    },
+    {
+     "annotation_count": 19,
+     "api_path": "/songs/64129",
+     "full_title": "Keep It Real by\u00a0Miilkbone",
+     "header_image_thumbnail_url": "https://images.genius.com/a0615b88e725bc7a06a4007e4c0d1988.300x225x1.jpg",
+     "header_image_url": "https://images.genius.com/a0615b88e725bc7a06a4007e4c0d1988.480x360x1.jpg",
+     "id": 64129,
+     "lyrics_owner_id": 67590,
+     "lyrics_state": "complete",
+     "path": "/Miilkbone-keep-it-real-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/b100bfc93d38ad32cca67b868594d3c3.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/b100bfc93d38ad32cca67b868594d3c3.600x600x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 16,
+      "hot": false,
+      "pageviews": 17143
+     },
+     "title": "Keep It Real",
+     "title_with_featured": "Keep It Real",
+     "url": "https://genius.com/Miilkbone-keep-it-real-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/8076",
+      "header_image_url": "https://images.genius.com/95f47c8e99aa25ba263be51e8b57d68b.360x272x1.jpg",
+      "id": 8076,
+      "image_url": "https://images.genius.com/7b3a41758ef6614647034e7b8e36d556.807x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Miilkbone",
+      "url": "https://genius.com/artists/Miilkbone"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": [
+    {
+     "annotation_count": 4,
+     "api_path": "/songs/89740",
+     "full_title": "Wannabe by\u00a0Spice\u00a0Girls",
+     "header_image_thumbnail_url": "https://images.genius.com/e107c520d8bac3639861b99d84630045.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/e107c520d8bac3639861b99d84630045.1000x1000x1.jpg",
+     "id": 89740,
+     "lyrics_owner_id": 137463,
+     "lyrics_state": "complete",
+     "path": "/Spice-girls-wannabe-lyrics",
+     "pyongs_count": 21,
+     "song_art_image_thumbnail_url": "https://images.genius.com/d654f65fce00556ad1702f835e7a9eb3.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/d654f65fce00556ad1702f835e7a9eb3.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "concurrents": 2,
+      "hot": false,
+      "pageviews": 631774
+     },
+     "title": "Wannabe",
+     "title_with_featured": "Wannabe",
+     "url": "https://genius.com/Spice-girls-wannabe-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/13074",
+      "header_image_url": "https://images.genius.com/c13ae59abb5e15dcede7fe8d6e7d7aea.1000x184x1.jpg",
+      "id": 13074,
+      "image_url": "https://images.genius.com/4cf70a83589c3278a189e09084b05665.934x934x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Spice Girls",
+      "url": "https://genius.com/artists/Spice-girls"
+     }
+    },
+    {
+     "annotation_count": 3,
+     "api_path": "/songs/4621011",
+     "full_title": "MOSHPIT by\u00a0Baby\u00a0Keem",
+     "header_image_thumbnail_url": "https://images.genius.com/ac75728b4e527d09c6161544f3d2adac.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/ac75728b4e527d09c6161544f3d2adac.1000x1000x1.jpg",
+     "id": 4621011,
+     "lyrics_owner_id": 4453612,
+     "lyrics_state": "complete",
+     "path": "/Baby-keem-moshpit-lyrics",
+     "pyongs_count": 2,
+     "song_art_image_thumbnail_url": "https://images.genius.com/ac75728b4e527d09c6161544f3d2adac.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/ac75728b4e527d09c6161544f3d2adac.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 1,
+      "hot": false,
+      "pageviews": 12229
+     },
+     "title": "MOSHPIT",
+     "title_with_featured": "MOSHPIT",
+     "url": "https://genius.com/Baby-keem-moshpit-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1185435",
+      "header_image_url": "https://images.genius.com/4cf8463534cd134a0438e4ce7e752be5.1000x1000x1.png",
+      "id": 1185435,
+      "image_url": "https://images.genius.com/706db0c8eba10dab22691b14afbdc387.1000x1000x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Baby Keem",
+      "url": "https://genius.com/artists/Baby-keem",
+      "iq": 291
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/30569",
+   "header_image_url": "https://images.genius.com/f557e3ee8a06e72875c12d3892fc6310.636x421x1.jpg",
+   "id": 30569,
+   "image_url": "https://images.genius.com/7a57b86faf82d826cf932aa9e14e3cce.752x500x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Questlove",
+   "url": "https://genius.com/artists/Questlove"
+  },
+  {
+   "api_path": "/artists/1938121",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "id": 1938121,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Thomas Wlodarczyk",
+   "url": "https://genius.com/artists/Thomas-wlodarczyk"
+  },
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  },
+  {
+   "api_path": "/artists/176",
+   "header_image_url": "https://images.genius.com/cc562c0aa5b047df2132b1557d8efb9a.464x464x1.jpg",
+   "id": 176,
+   "image_url": "https://images.genius.com/cc562c0aa5b047df2132b1557d8efb9a.464x464x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Black Thought",
+   "url": "https://genius.com/artists/Black-thought",
+   "iq": 11129
+  },
+  {
+   "api_path": "/artists/10233",
+   "header_image_url": "https://images.genius.com/86ffea215a16c755f8941a37f5b90778.562x562x1.jpg",
+   "id": 10233,
+   "image_url": "https://images.genius.com/86ffea215a16c755f8941a37f5b90778.562x562x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Scott Storch",
+   "url": "https://genius.com/artists/Scott-storch"
+  },
+  {
+   "api_path": "/artists/933003",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "id": 933003,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Rehani Sayed",
+   "url": "https://genius.com/artists/Rehani-sayed"
+  },
+  {
+   "api_path": "/artists/1590133",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "id": 1590133,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Melvin Dinkins",
+   "url": "https://genius.com/artists/Melvin-dinkins"
+  },
+  {
+   "api_path": "/artists/2599",
+   "header_image_url": "https://images.genius.com/4ff680a7d1d6fb300e2f40a317bb6522.1000x563x1.jpg",
+   "id": 2599,
+   "image_url": "https://images.genius.com/15369c33d990ab8c7a96517a4e2f5bf7.996x996x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Malik B",
+   "url": "https://genius.com/artists/Malik-b"
+  },
+  {
+   "api_path": "/artists/173100",
+   "header_image_url": "https://images.genius.com/1a3a56d14e7ec21d10ef8b2401d17367.800x1000x1.jpg",
+   "id": 173100,
+   "image_url": "https://images.genius.com/fa73b27f25a84132d21e05a54e1a8df2.280x280x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "IDK",
+   "url": "https://genius.com/artists/Idk",
+   "iq": 2026
+  },
+  {
+   "api_path": "/artists/574673",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "id": 574673,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Fred Tackett",
+   "url": "https://genius.com/artists/Fred-tackett"
+  },
+  {
+   "api_path": "/artists/324667",
+   "header_image_url": "https://images.genius.com/b466500ab2d3b2fb49570980116ad4dd.1000x465x1.jpg",
+   "id": 324667,
+   "image_url": "https://images.genius.com/b2b79e586d20df0c2a21943d2edf1e9e.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "JID",
+   "url": "https://genius.com/artists/Jid",
+   "iq": 3684
+  }
+ ],
+ "lyrics": "[Chorus: IDK]\nYour strawberry lemonade lips\nMake a nigga blood pressure go drip, drip, drip\nBad hoes is the\u2005devil,\u2005like six-six-six\nBad hoes\u2005is the devil, like six-six-six\nWhen I\u2005got you on my mind ain't no room for a thot\nWhen you layin' on my chest ain't no room for my heart\nGirl, you know we wastin' time like tick, tick, tick\nGirl, you suckin' up my time like tick, tick, tick\n\n[Verse 1: IDK]\nThe bible say beatin' my dick and killin' is equal (Huh?)\nBut that don't add up (Right?), 'cause the amount of times\nThat I milk my shit I'll probably be considered serial (Ayy, hahaha)\nThem Cocoa Puff tittie balls make a nigga balls\nFall inside of her jaws while her drawls fall\nAll like a nightstand in the earthquake caused\nBy the backstroke, dog style, all wild\nKill the pretty kitty, leave a X over its eyes like a KAWS clown\nShit! That's a fuckin' bar\nFuck her in a '69, that's a fuckin' car\nRolls Royce and the roof is the fuckin' stars\nKillin' niggas every time I write like it's fuckin' \"Saw\"\nLeave 'em charred, leave 'em Charmander without the tail spark\n(That mean that nigga dead!) Oh well, I have no fuckin' heart\nBack to my banana, this brain food is why she smart\nYellow and her head on point, it's like her brother's\nBart Simpson, no O.J, it ain't fit so she must acquit\nTake my Johnnie Cochran out and sit it on her pretty lips\nSex addict with no intent to ever quit\nThis what happens when you exposed to porn at the age of six\n\n[Interlude]\n(It's goin' on, it's goin' on)\nThere's something goin' on\n(Something's goin' on, you know it's goin' on)\nThere's something\u2014\n\n[Bridge: Kapri Styles & IDK]\nYo!\nI hit him with the charm, make him put it on my arm, like\nYou don't need no job when ya pussy is the bomb\nBackshot, backshot, ATM, now she gone, like\nYou don't need no job when ya pussy is the bomb\nI wanna, I wanna, I wanna, I wanna, I wanna\nYou don't need no job when ya pussy is the bomb\nI wanna, I wanna, I wanna, I wanna, I wanna\nYou don't need no job when ya pussy is the bomb\n\n[Verse 2: Pusha T]\nIf she sellin', she workin', no lyin' (What?)\nThe price right? No flirtin', I'm buyin' (What?)\nSame day, airfare, I'm flyin' (What?)\nLove trappers, love rappers, love diamonds (Woo)\nI got it, I give it, come get it\nBirkin bags, bad bitches come with it\nCity girls, come count up my digits\nCan't break 'em, can't shake 'em, I live it (Hahaha)\n\u200bi8, I Robot, I never  (Hahaha)\nI only, big foreigns, I pedal\nShe chase us, speed racer, daredevil\nIDK, King Push, it's levels, yugh\n\n[Interlude]\nOh my god, that fuckin' dick\nOh shit! Woo! Woo! Ah!\nLike this\n\n[Chorus: IDK]\nYour strawberry lemonade lips\nMake a nigga blood pressure go drip, drip, drip (Go 'head)\nBad hoes is the devil, like six-six-six (Go 'head)\nBad hoes is the devil, like six-six-six (Go 'head)\nWhen I got you on my mind ain't no room for a thot (Go 'head)\nWhen you layin' on my chest ain't no room for my heart (Go 'head)\nGirl, you know we wastin' time, like tick, tick, tick (Go 'head)\nGirl, you suckin' up my time, like tick-tock, tick-tock, tick (Go 'head)\nWoo!\n\n[Verse 3: JID]\nShe wanna lock lips, I just pulled over, made her stop it\nInside of my whip, when I'm drivin' it's called a cockpit\nObviously, if she ride with the kid then she givin' knowledge\nLike institutions disguised in the schools and collectin' profits\nI missed\nGive her the shit that she like some type of magician (Go 'head)\nMy magical wand mission, this clitoris infamous (Go 'head)\nGod-given, devil insidious (Go 'head)\nNo condoms in the condominium (Go 'head)\nIdiot, she do this shit for any and many men or 50 Cent (Go 'head)\nShit, I am 50 Cent, haha, word to my nigga Keem"
+}

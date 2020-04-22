@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <meta charset="UTF-8">
+    <title>Very Scientific Personality Tests</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <!-- Bulma Version 0.8.x-->
+    <link rel='stylesheet' href='https://unpkg.com/bulma@0.8.0/css/bulma.min.css'>
+    <link rel='stylesheet' href='pusha.css'>
+    <script src="https://kit.fontawesome.com/7dc3015a44.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.slim.min.js"></script>
+    <script src="pusha_verses.js"></script>
+  </head>
+  <body>
+    <section class="hero is-primary">
+      <div class="hero-body">
+        <div class="columns">
+          <div class="column is-12">
+            <div class="container content">
+              <h1 class="title">Likely <em>The</em> Most Important Question Ever Posed</h1>
+              <h3 class="subtitle">
+                  Powered by Science
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <section class="section">
+      <div class="container">
+          <div class="columns">
+              
+              <div class="column is-3">
+                  <aside class="is-medium menu">
+                      <p class="menu-label">
+                          Questions
+                      </p>
+                      <ul class="menu-list">
+                          <li><a href="#q1"><i class="fas fa-user-check"></i> Miguel</a></li>
+                          <li><a href="#q2"><i class="fas fa-car"></i> Juicy</a></li>
+                          <li><a href="#q3"><i class="fas fa-skull-crossbones"></i> Gaius</a></li>
+                          <li><a href="#q4"><i class="fas fa-grin-tongue"></i> Gator</a></li>
+                          <li><a href="#q5"><i class="fas fa-rocket"></i> Blake</a></li>
+                          <li><a href="#q6"><i class="fas fa-mortar-pestle"></i> French</a></li>
+                          <li><a href="#q7"><i class="fas fa-wine-bottle"></i> Andy</a></li>
+                          <li><a href="#q8"><i class="fas fa-snowman"></i> Guy</a></li>
+                          <li><a href="#q9"><i class="fab fa-fort-awesome"></i> Jimmy</a></li>
+                          <li><a href="#q10"><i class="fas fa-piggy-bank"></i> Suze</a></li>
+                          <li><a href="#q11"><i class="fas fa-paper-plane"></i> Jeff</a></li>
+                          <li><a href="#results"><i class="fas fa-graduation-cap"></i> Get Your Results</a></li>
+                      </ul>
+                  </aside>
+              </div>
+              
+              <div class="column is-9">
+                  <div class="content is-medium">
+                      <h3 class="title is-3">Which Pusha T Verse Are You?</h3>
+                      <div class="box" id="currentQuestion"></div>
+                  </div>
+                  <div class="content">
+                      <button class="button is-link is-pulled-left previous-question">Previous Question</button>
+                      <button class="button is-link is-pulled-right next-question">Next Question</button>
+                  </div>
+                  <div class="content">
+                      <button class="button is-link new-result is-hidden">Disagree--show the next most likely.</button>
+                  </div>
+              </div>
+
+          </div>
+      </div>
+    </section>
+    
+    <script>     
+     const q1 = `
+        <h4 id="const" class="title is-3">
+            Question 1
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                In Don Quixote, Cervantes claims there are 4 kinds of people.
+                <br><br>
+                <strong>Choose which one best describes you.</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q1">
+                Those who from humble beginning have attained greatness.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q1">
+                Those who were and remain great.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q1">
+                Those who have from original greatness tapered to a pyramidal point.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q1">
+                Those who were and remain ordinary.
+            </label>
+        </div>`;
+
+     const q2 = `
+        <h4 id="const" class="title is-3">
+            Question 2
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                Juicy J once said 'ride with 3 K’s and I ain’t talkin bout the klan' 
+                <br><br>
+                <strong>What are the 3 K’s Juicy J is ridin with?</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q2">
+                Killers
+            </label>
+            <label class="radio">
+                <input type="radio" name="q2">
+                Kilos
+            </label>
+            <label class="radio">
+                <input type="radio" name="q2">
+                Klan Members
+            </label>
+            <label class="radio">
+                <input type="radio" name="q2">
+                Karats
+            </label>
+            <label class="radio">
+                <input type="radio" name="q2">
+                Kittens
+            </label>
+            <label class="radio">
+                <input type="radio" name="q2">
+                Kings
+            </label>
+            <label class="radio">
+                <input type="radio" name="q2">
+                Other
+            </label>
+        </div>`;
+
+     const q3 = `
+        <h4 id="const" class="title is-3">
+            Question 3
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                When Julius Caesar was assassinated he cried out in Greek ‘You too, child!’
+                <br><br>
+                <strong>What did he mean by this?</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q3">
+                A threat (“I’ll get you boy!”)
+            </label>
+            <label class="radio">
+                <input type="radio" name="q3">
+                A poignant regret for the disloyalty of a young friend (‘You too, my child?’)
+            </label>
+            <label class="radio">
+                <input type="radio" name="q3">
+                Caesar was acknowledging that Brutus was his actual natural son.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q3">
+                Actually, he said ‘Et tu, Brute?’
+            </label>
+        </div>`;
+
+     const q4 = `
+        <h4 id="const" class="title is-3">
+            Question 4
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                <strong>Choose One</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q4">
+                Test it on your tongue.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q4">
+                Watch a fiend do it.
+            </label>
+        </div>`;
+     
+     const q5 = `
+        <h4 id="const" class="title is-3">
+            Question 5
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                Epistemologist Blake Schwarzenbach states:<br>
+                'Be a believer, believe everything, you'll be right half the time'
+                <br><br>
+                <strong>If you believe everything, will you in fact be right half the time?</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q5">
+                Yes
+            </label>
+            <label class="radio">
+                <input type="radio" name="q5">
+                No
+            </label>
+        </div>`;
+
+     const q6 = `
+        <h4 id="const" class="title is-3">
+            Question 6
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                Overall, how much do you agree with the following
+                <br><br>
+                <strong>'I'm about that life'</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q6">
+                Strongly Agree
+            </label>
+            <label class="radio">
+                <input type="radio" name="q6">
+                Agree 
+            </label>
+            <label class="radio">
+                <input type="radio" name="q6">
+                Neither agree nor disagree
+            </label>
+            <label class="radio">
+                <input type="radio" name="q6">
+                Disagree
+            </label>
+            <label class="radio">
+                <input type="radio" name="q6">
+                Strongly Disagree 
+            </label>
+        </div>`;
+
+
+     const q7 = `
+        <h4 id="const" class="title is-3">
+            Question 7
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                America started the tradition where the richest consumers buy 
+                essentially the same things as the poorest. You can be watching 
+                TV and see Coca-Cola, and you know that the President drinks Coke, 
+                Liz Taylor drinks Coke, and just think, you can drink Coke, too. 
+                A Coke is a Coke and no amount of money can get you a better Coke 
+                than the one the bum on the corner is drinking. All the Cokes are 
+                the same and all the Cokes are good. Liz Taylor knows it, the President 
+                knows it, the bum knows it, and you know it.
+                <br><br>
+                <strong>This statement from Andy Warhol is:</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q7">
+                A paean to egalitarian ideals.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q7">
+                Self-serving pandering to lowbrow art forms to help his sales.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q7">
+                Oblivious to new hierarchies created by late capitalism.
+            </label>
+        </div>`;
+
+     
+     const q8 = `
+        <h4 id="const" class="title is-3">
+            Question 8
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+              <strong>Choose your preferred cocaine dealer nickname:</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q8">
+                The Robb Report of the snort
+            </label>
+            <label class="radio">
+                <input type="radio" name="q8">
+                Mr. Sniffles                 
+            </label>
+            <label class="radio">
+                <input type="radio" name="q8">
+                Jack Frost of Sellin' That Blast Off            
+            </label>
+            <label class="radio">
+                <input type="radio" name="q8">
+                Pyrex God
+            </label>
+            <label class="radio">
+                <input type="radio" name="q8">
+                Black Ferris Beuller            
+            </label>
+            <label class="radio">
+                <input type="radio" name="q8">
+                The Grand Wizard of That Almighty Blizzard
+            </label>
+            <label class="radio">
+                <input type="radio" name="q8">
+                The Last Cocaine Superhero   
+            </label>
+        </div>`;
+     
+     const q9 = `
+        <h4 id="const" class="title is-3">
+            Question 9
+        </h4>
+
+        <article class="message is-primary">
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                "During [Led Zeppelin's] heydey, Jimmy Page lived in a castle near Loch Ness
+                where he supposedly spent all day sitting in the dark, taking drugs, and
+                dabbling in the occultist works of Aleister Crowley (the estate's former 
+                owner)."
+                <br><br>
+                <strong>If this is true, is it:</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q9">
+                The most awesome thing in the history of rock.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q9">
+                The most awesome thing in the history of music.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q9">
+                The most awesome thing in history.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q9">
+                Decline to state.
+            </label>
+        </div>`;
+
+     const q10 = `
+        <h4 id="const" class="title is-3">
+            Question 10
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                <strong>Select the option that most accurately reflects your retirement plan:</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q10">
+                Gotta time manage when you heavin' snow<br>
+                Able to drop it all at 30 and be free to go
+            </label>
+            <label class="radio">
+                <input type="radio" name="q10">
+                I'm still in the hood, I can't leave the streets<br>
+                It's in my blood, I'm a thug 'til I be deceased.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q10">
+                My morning cup of coffee is a double cup of syrup<br>
+                ...
+                Fuck your boss and fuck the world.
+            </label>
+            <label class="radio">
+                <input type="radio" name="q10">
+                Tomorrow ain't promised to me<br>
+                The only thing promised to a player is the penitentiary
+            </label>
+            <label class="radio">
+                <input type="radio" name="q10">
+                Date I stop still has an asterisk after it.
+            </label>
+
+        </div>`;
+
+
+     const q11 = `
+        <h4 id="const" class="title is-3">
+            Question 11
+        </h4>
+
+        <article class="message is-primary">                    
+            <span class="icon has-text-primary"></span>
+            <div class="message-body">
+                <strong>It's strange to be anything at all.</strong>
+            </div>
+        </article>
+
+        <div class="control">
+            <label class="radio">
+                <input type="radio" name="q11">
+                Strongly Agree
+            </label>
+            <label class="radio">
+                <input type="radio" name="q11">
+                Agree 
+            </label>
+            <label class="radio">
+                <input type="radio" name="q11">
+                Neither agree nor disagree
+            </label>
+            <label class="radio">
+                <input type="radio" name="q11">
+                Disagree
+            </label>
+            <label class="radio">
+                <input type="radio" name="q11">
+                Strongly Disagree 
+            </label>
+        </div>`;     
+     
+     const qMap = {
+         '#q1': q1,
+         '#q2': q2,
+         '#q3': q3,
+         '#q4': q4,
+         '#q5': q5,
+         '#q6': q6,
+         '#q7': q7,
+         '#q8': q8,
+         '#q9': q9,
+         '#q10': q10,
+         '#q11': q11
+     };
+
+     let currentQuestion = undefined;
+     let resultList = verses.slice().filter((x) => x.verse.length > 100)
+
+     function isLastQuestion(q_number) {
+         return q_number === '#q11';
+     }
+     
+     function loadQuestionByHash(q_number) {
+         currentQuestion = q_number;
+         $('.menu-list a').removeClass('is-active');
+         $('#currentQuestion').html(qMap[q_number]);
+         $(`a[href="${q_number}"]`).addClass('is-active');
+
+         if(isLastQuestion(currentQuestion)) {
+             $('button.next-question').text('Get Results');
+         } else {
+             $('button.next-question').text('Next Question');
+         }
+     }     
+     
+     function handleMenuClick(element) {
+         const elem = element.tagName === "I" ? $(element).parent()[0] : element;
+         const e = $(elem);
+         if(e.hasClass('is-active')) {
+             return;
+         }
+
+         console.log(e.attr('href'));
+         if(e.attr('href') === "#results") {
+             showResult();
+         } else {
+             loadQuestionByHash(e.attr('href'));
+         }
+     }
+
+     function loadNextQuestion() {
+         if(isLastQuestion(currentQuestion)) {
+             showResult();
+         } else {
+             loadQuestionByHash(`#q${parseInt(currentQuestion.slice(2)) + 1}`);
+         }
+     }
+
+     function loadPreviousQuestion() {
+         if(currentQuestion === '#q1') {
+             return;
+         }
+         
+         loadQuestionByHash(`#q${parseInt(currentQuestion.slice(2)) - 1}`);
+     }
+
+     function showResult() {
+         $('button.next-question').addClass('is-hidden');
+         $('button.previous-question').addClass('is-hidden');
+         $('button.new-result').removeClass('is-hidden');
+         
+         const idx = Math.floor(Math.random() * resultList.length);
+         const result_data = resultList.splice(idx, 1)[0];
+
+         const result = `
+             <h4 id="const" class="title is-3">
+                 From: ${result_data.song_title}
+             </h4>
+             
+             <article class="is-primary">
+                 <blockquote>
+                     ${result_data.verse.trim()}
+                 </blockquote>
+             </article>
+             <div class="content is-small">
+               ${result_data.song_description}
+             </div>
+         `;
+
+         $('#currentQuestion').html(result);
+     }
+
+     $('ul.menu-list li').click((e) => handleMenuClick(e.target));
+     $('button.previous-question').click((e) => loadPreviousQuestion());
+     $('button.next-question').click((e) => loadNextQuestion());
+     $('button.new-result').click((e) => showResult());
+     
+     $('document').ready(function() {
+         if(location.hash in qMap) {
+             loadQuestionByHash(location.hash);
+         } else {
+             loadQuestionByHash('#q1');
+         }
+     });
+     
+    </script>  
+  </body>
+</html>

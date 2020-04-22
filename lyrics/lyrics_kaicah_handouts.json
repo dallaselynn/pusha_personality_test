@@ -1,0 +1,445 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/4730771",
+ "full_title": "Handouts by\u00a0Kai\u00a0Ca$h (Ft.\u00a0Pusha\u00a0T)",
+ "header_image_thumbnail_url": "https://images.genius.com/dcfa1f38119a5f5a4ac32b6b282b9e15.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/dcfa1f38119a5f5a4ac32b6b282b9e15.1000x1000x1.jpg",
+ "id": 4730771,
+ "instrumental": false,
+ "lyrics_owner_id": 8348587,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1564516523,
+ "path": "/Kai-ca-h-handouts-lyrics",
+ "pyongs_count": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/dcfa1f38119a5f5a4ac32b6b282b9e15.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/dcfa1f38119a5f5a4ac32b6b282b9e15.1000x1000x1.jpg",
+ "stats": {
+  "accepted_annotations": 0,
+  "contributors": 3,
+  "iq_earners": 3,
+  "transcribers": 3,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "hot": false
+ },
+ "title": "Handouts",
+ "title_with_featured": "Handouts (Ft.\u00a0Pusha\u00a0T)",
+ "updated_by_human_at": 1564516528,
+ "url": "https://genius.com/Kai-ca-h-handouts-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/1222502",
+  "header_image_url": "https://images.genius.com/0b6e423aec949104815e316a377606e2.1000x1000x1.png",
+  "id": 1222502,
+  "image_url": "https://images.genius.com/1ff1704b69269ce337ea62e3c22c0766.1000x1000x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Kai Ca$h",
+  "url": "https://genius.com/artists/Kai-ca-h",
+  "iq": 647
+ },
+ "apple_music_id": "1473319068",
+ "apple_music_player_url": "https://genius.com/songs/4730771/apple_music_player",
+ "description": {
+  "plain": "?"
+ },
+ "embed_content": "<div id='rg_embed_link_4730771' class='rg_embed_link' data-song-id='4730771'>Read <a href='https://genius.com/Kai-ca-h-handouts-lyrics'>\u201cHandouts\u201d by Kai\u00a0Ca$h</a> on Genius</div> <script crossorigin src='//genius.com/songs/4730771/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2019-07-26",
+ "release_date_for_display": "July 26, 2019",
+ "current_user_metadata": {
+  "permissions": [
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "see_pageviews",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/547872",
+  "cover_art_url": "https://images.genius.com/dcfa1f38119a5f5a4ac32b6b282b9e15.1000x1000x1.jpg",
+  "full_title": "Birth in the Borough by Kai Ca$h",
+  "id": 547872,
+  "name": "Birth in the Borough",
+  "url": "https://genius.com/albums/Kai-ca-h/Birth-in-the-borough",
+  "artist": {
+   "api_path": "/artists/1222502",
+   "header_image_url": "https://images.genius.com/0b6e423aec949104815e316a377606e2.1000x1000x1.png",
+   "id": 1222502,
+   "image_url": "https://images.genius.com/1ff1704b69269ce337ea62e3c22c0766.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Kai Ca$h",
+   "url": "https://genius.com/artists/Kai-ca-h",
+   "iq": 647
+  }
+ },
+ "custom_performances": [],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 54639,
+  "annotator_login": "WriteNProppa",
+  "api_path": "/referents/17680265",
+  "classification": "needs_exegesis",
+  "fragment": "Handouts",
+  "id": 17680265,
+  "is_description": true,
+  "path": "/17680265/Kai-ca-h-handouts/Handouts",
+  "range": {
+   "content": "Handouts"
+  },
+  "song_id": 4730771,
+  "url": "https://genius.com/17680265/Kai-ca-h-handouts/Handouts",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/4730771",
+   "client_timestamps": {
+    "updated_by_human_at": 1564516528,
+    "lyrics_updated_at": 1564516523
+   },
+   "context": "Kai Ca$h",
+   "id": 4730771,
+   "image_url": "https://images.genius.com/dcfa1f38119a5f5a4ac32b6b282b9e15.1000x1000x1.jpg",
+   "link_title": "Handouts by\u00a0Kai\u00a0Ca$h (Ft.\u00a0Pusha\u00a0T)",
+   "title": "Handouts",
+   "type": "Song",
+   "url": "https://genius.com/Kai-ca-h-handouts-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17680265",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 17680265,
+    "pinned": false,
+    "share_url": "https://genius.com/17680265",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/17680265/Kai-ca-h-handouts/Handouts",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/54639",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+       "human_readable_role_for_display": "Staff",
+       "id": 54639,
+       "iq": 1502392,
+       "login": "WriteNProppa",
+       "name": "WriteNProppa",
+       "role_for_display": "staff",
+       "url": "https://genius.com/WriteNProppa",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  }
+ ],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/54639",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+  "human_readable_role_for_display": "Staff",
+  "id": 54639,
+  "iq": 1502392,
+  "login": "WriteNProppa",
+  "name": "WriteNProppa",
+  "role_for_display": "staff",
+  "url": "https://genius.com/WriteNProppa",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [],
+ "producer_artists": [
+  {
+   "api_path": "/artists/27827",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/ae320bd23ac447d11b3b4172fa0bf0b6.jpeg",
+   "id": 27827,
+   "image_url": "https://s3.amazonaws.com/rapgenius/ae320bd23ac447d11b3b4172fa0bf0b6.jpeg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Rob Holladay",
+   "url": "https://genius.com/artists/Rob-holladay"
+  },
+  {
+   "api_path": "/artists/24637",
+   "header_image_url": "https://images.genius.com/f34f2a0fa49651eda6a7fda61d2c470b.1000x1000x1.png",
+   "id": 24637,
+   "image_url": "https://images.genius.com/f34f2a0fa49651eda6a7fda61d2c470b.1000x1000x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Nes",
+   "url": "https://genius.com/artists/Nes"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  },
+  {
+   "api_path": "/artists/1222502",
+   "header_image_url": "https://images.genius.com/0b6e423aec949104815e316a377606e2.1000x1000x1.png",
+   "id": 1222502,
+   "image_url": "https://images.genius.com/1ff1704b69269ce337ea62e3c22c0766.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Kai Ca$h",
+   "url": "https://genius.com/artists/Kai-ca-h",
+   "iq": 647
+  }
+ ],
+ "lyrics": "[Chorus: Kai Ca$h]\nUh, I don't need your handouts\nI\u200a could make ends meet, I can\u2019t sit or stay around\nBeen\u200a on the paper route\nMoney gon' grow, shit, it come and it go\nFreaks come out, I ain't cuffin\u2019 no ho (Cuffin' no ho)\nCameras\u200a flash when I come around\nSee\u200a this ship sail, jump on a boat\nI been chasin' bags like I'm running out\n\n[Verse 1: Kai Ca$h]\nShittin'\u200a me? Huh?\nCan't let a nigga get to me\nThat's a time waste\nWhat they puttin' on the boards getting dry erased\nLeaving\u200a headaches, stress, migraines\nI been playing too cool, where the fireplace?\nTryna run, Forest, Tom Hanks\nPushing something same color as a Power Ranger\nNiggas think shit sweet, get \u2019em now or later, yeah\nAw shit, this shit is gettin\u2019 wild, no joke, uh\nCelebrate life, more toasts, uh\nAbove sea level, stay afloat, uh\nI pull up to the spot, I'm like the Pope, uh\nThey wantin\u2019 me to sign, too low, huh\nI'm not near selling my soul, huh\nMy eyes wide open, stay woke, uh\nAnd stack, I ain't going back broke\n\n[Chorus: Kai Ca$h]\nI don't need your handouts\nI could make ends meet, I can\u2019t sit or stay around\nBeen on the paper route\nMoney gon' grow, shit, it come and it go\nFreaks come out, I ain't cuffin' no ho (Cuffin' no ho)\nCameras flash when I come around\nSee this ship sail, jump on a boat\nI been chasin' bags like I'm running out\n\n[Verse 2: Pusha T]\nI don't need your handouts\nThe greats sideline at the game when you the standout\nI can buy your mans out\nHer conversation different when I pull a hundred grand out\nFeeling like Zion\nNumber one pick with the new shoe to try on\nBygones are bygone\nEither let it be or pick the street that you die on, nigga\nMatte Rover, rolling over blocks I used to trap over\nHe told her that the Birkin was on back order\nI'm sending over two, tell him the cap's over, ooh\nBack of jet ski with her bestie\nMake our own wave, chain on Gretzky\nWrist two hundred\nIt's a road map for that bitch you wanted, Push\n\n[Chorus: Kai Ca$h]\nI don't need your handouts\nI could make ends meet, I can't sit or stay around\nBeen on the paper route\nMoney gon' grow, shit, it come and it go\nFreaks come out, I ain't cuffin' no ho (Cuffin' no ho)\nCameras flash when I come around\nSee this ship sail, jump on a boat\nI been chasin' bags like I'm running out\n\n[Verse 3: Kai Ca$h]\nUh (Yeah, yeah), I can't settle for less (Never)\nRevenue stretch all due to better finesse\nI only settle for checks, put the devil in the hole\nCould've been the ghetto nigga wreckin' up the stove\nStill an elegant fella, not a felon in the hole\nLocked in the box, still developin' the soul\nCold-hearted, unbothered\nGlobetrotting with hoes that didn't know about us\nSet a reminder, this a breakthrough\nBroke loose of middleman convos\nWe cut ties, never revisit them\nNumb the shit that don't bring much, I lost feelin' in\nTook home the champion game, I had to win again\nHad to take control of a fur in cold winters then\nSet an office up in my home to run businesses\nA diamond in the dirt is a gem\nRemain high like I'm stuck on the rim, nigga\nI'm him, nigga, what?"
+}

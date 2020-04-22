@@ -1,0 +1,562 @@
+{
+ "_type": "song",
+ "annotation_count": 15,
+ "api_path": "/songs/4627695",
+ "full_title": "18 Wheeler by\u00a0BENNY\u00a0THE BUTCHER (Ft.\u00a0Pusha\u00a0T)",
+ "header_image_thumbnail_url": "https://images.genius.com/42d166e02680e89cd762e503316fc637.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/42d166e02680e89cd762e503316fc637.939x939x1.jpg",
+ "id": 4627695,
+ "instrumental": false,
+ "lyrics_owner_id": 1532287,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1586861792,
+ "path": "/Benny-the-butcher-18-wheeler-lyrics",
+ "pyongs_count": 4,
+ "song_art_image_thumbnail_url": "https://images.genius.com/42d166e02680e89cd762e503316fc637.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/42d166e02680e89cd762e503316fc637.939x939x1.jpg",
+ "stats": {
+  "accepted_annotations": 2,
+  "contributors": 32,
+  "iq_earners": 32,
+  "transcribers": 2,
+  "unreviewed_annotations": 7,
+  "verified_annotations": 6,
+  "hot": false,
+  "pageviews": 33707
+ },
+ "title": "18 Wheeler",
+ "title_with_featured": "18 Wheeler (Ft.\u00a0Pusha\u00a0T)",
+ "updated_by_human_at": 1586861792,
+ "url": "https://genius.com/Benny-the-butcher-18-wheeler-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/1169925",
+  "header_image_url": "https://images.genius.com/f93d0f2ed399a15b682a6bfb1c6447eb.1000x667x1.jpg",
+  "id": 1169925,
+  "image_url": "https://images.genius.com/4bfb9a4562f5a2a5bf1530c71b50c960.800x800x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "BENNY THE BUTCHER",
+  "url": "https://genius.com/artists/Benny-the-butcher",
+  "iq": 438
+ },
+ "apple_music_id": "1468073240",
+ "apple_music_player_url": "https://genius.com/songs/4627695/apple_music_player",
+ "description": {
+  "plain": "?"
+ },
+ "embed_content": "<div id='rg_embed_link_4627695' class='rg_embed_link' data-song-id='4627695'>Read <a href='https://genius.com/Benny-the-butcher-18-wheeler-lyrics'>\u201c18 Wheeler\u201d by BENNY\u00a0THE BUTCHER</a> on Genius</div> <script crossorigin src='//genius.com/songs/4627695/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2019-06-14",
+ "release_date_for_display": "June 14, 2019",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/536665",
+  "cover_art_url": "https://images.genius.com/42d166e02680e89cd762e503316fc637.939x939x1.jpg",
+  "full_title": "The Plugs I Met by BENNY THE BUTCHER",
+  "id": 536665,
+  "name": "The Plugs I Met",
+  "url": "https://genius.com/albums/Benny-the-butcher/The-plugs-i-met",
+  "artist": {
+   "api_path": "/artists/1169925",
+   "header_image_url": "https://images.genius.com/f93d0f2ed399a15b682a6bfb1c6447eb.1000x667x1.jpg",
+   "id": 1169925,
+   "image_url": "https://images.genius.com/4bfb9a4562f5a2a5bf1530c71b50c960.800x800x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "BENNY THE BUTCHER",
+   "url": "https://genius.com/artists/Benny-the-butcher",
+   "iq": 438
+  }
+ },
+ "custom_performances": [],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4472469,
+  "annotator_login": "DemetriusAKAMasterSplintersNephew",
+  "api_path": "/referents/17688658",
+  "classification": "needs_exegesis",
+  "fragment": "18 Wheeler",
+  "id": 17688658,
+  "is_description": true,
+  "path": "/17688658/Benny-the-butcher-18-wheeler/18-wheeler",
+  "range": {
+   "content": "18 Wheeler"
+  },
+  "song_id": 4627695,
+  "url": "https://genius.com/17688658/Benny-the-butcher-18-wheeler/18-wheeler",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/4627695",
+   "client_timestamps": {
+    "updated_by_human_at": 1586861792,
+    "lyrics_updated_at": 1586861792
+   },
+   "context": "BENNY THE BUTCHER",
+   "id": 4627695,
+   "image_url": "https://images.genius.com/42d166e02680e89cd762e503316fc637.939x939x1.jpg",
+   "link_title": "18 Wheeler by\u00a0BENNY\u00a0THE BUTCHER (Ft.\u00a0Pusha\u00a0T)",
+   "title": "18 Wheeler",
+   "type": "Song",
+   "url": "https://genius.com/Benny-the-butcher-18-wheeler-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17688658",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 17688658,
+    "pinned": false,
+    "share_url": "https://genius.com/17688658",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/17688658/Benny-the-butcher-18-wheeler/18-wheeler",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4472469",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d430c0ae79acf5586e80a7207e8de3dd",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d430c0ae79acf5586e80a7207e8de3dd",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d430c0ae79acf5586e80a7207e8de3dd",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d430c0ae79acf5586e80a7207e8de3dd",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/966af8b489b529d8406d5ec5c72e537d.432x550x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 4472469,
+       "iq": 45705,
+       "login": "DemetriusAKAMasterSplintersNephew",
+       "name": "Jake Wernick",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/DemetriusAKAMasterSplintersNephew",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  }
+ ],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/2976672",
+  "avatar": {
+   "tiny": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gjw8z3svfg",
+  "human_readable_role_for_display": "Staff",
+  "id": 2976672,
+  "iq": 116620,
+  "login": "GaryTheJerk",
+  "name": "GaryTheJerk",
+  "role_for_display": "staff",
+  "url": "https://genius.com/GaryTheJerk",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=JdZC8uBwJ4Q"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/1666596",
+   "header_image_url": "https://images.genius.com/69940695c482cb54daf60dfd61b14695.400x400x1.png",
+   "id": 1666596,
+   "image_url": "https://images.genius.com/69940695c482cb54daf60dfd61b14695.400x400x1.png",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "DJ Shay",
+   "url": "https://genius.com/artists/Dj-shay"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [
+  {
+   "api_path": "/users/9091376",
+   "avatar": {
+    "tiny": {
+     "url": "https://images.genius.com/avatars/tiny/2cdab45500b058d290131deee5578806",
+     "bounding_box": {
+      "width": 16,
+      "height": 16
+     }
+    },
+    "thumb": {
+     "url": "https://images.genius.com/avatars/thumb/2cdab45500b058d290131deee5578806",
+     "bounding_box": {
+      "width": 32,
+      "height": 32
+     }
+    },
+    "small": {
+     "url": "https://images.genius.com/avatars/small/2cdab45500b058d290131deee5578806",
+     "bounding_box": {
+      "width": 100,
+      "height": 100
+     }
+    },
+    "medium": {
+     "url": "https://images.genius.com/avatars/medium/2cdab45500b058d290131deee5578806",
+     "bounding_box": {
+      "width": 300,
+      "height": 400
+     }
+    }
+   },
+   "header_image_url": "https://images.genius.com/f93d0f2ed399a15b682a6bfb1c6447eb.1000x667x1.jpg",
+   "human_readable_role_for_display": "Verified Artist",
+   "id": 9091376,
+   "iq": 438,
+   "login": "BennyTheButcher",
+   "name": "BENNY THE BUTCHER",
+   "role_for_display": "verified_artist",
+   "url": "https://genius.com/BennyTheButcher",
+   "current_user_metadata": {
+    "permissions": [],
+    "excluded_permissions": [
+     "follow"
+    ],
+    "interactions": {
+     "following": false
+    }
+   }
+  }
+ ],
+ "verified_contributors": [
+  {
+   "contributions": [
+    "annotations",
+    "answers"
+   ],
+   "artist": {
+    "api_path": "/artists/1169925",
+    "header_image_url": "https://images.genius.com/f93d0f2ed399a15b682a6bfb1c6447eb.1000x667x1.jpg",
+    "id": 1169925,
+    "image_url": "https://images.genius.com/4bfb9a4562f5a2a5bf1530c71b50c960.800x800x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "BENNY THE BUTCHER",
+    "url": "https://genius.com/artists/Benny-the-butcher",
+    "iq": 438
+   },
+   "user": {
+    "api_path": "/users/9091376",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/2cdab45500b058d290131deee5578806",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/2cdab45500b058d290131deee5578806",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/2cdab45500b058d290131deee5578806",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/2cdab45500b058d290131deee5578806",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/f93d0f2ed399a15b682a6bfb1c6447eb.1000x667x1.jpg",
+    "human_readable_role_for_display": "Verified Artist",
+    "id": 9091376,
+    "iq": 438,
+    "login": "BennyTheButcher",
+    "name": "BENNY THE BUTCHER",
+    "role_for_display": "verified_artist",
+    "url": "https://genius.com/BennyTheButcher",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   }
+  }
+ ],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/1169925",
+   "header_image_url": "https://images.genius.com/f93d0f2ed399a15b682a6bfb1c6447eb.1000x667x1.jpg",
+   "id": 1169925,
+   "image_url": "https://images.genius.com/4bfb9a4562f5a2a5bf1530c71b50c960.800x800x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "BENNY THE BUTCHER",
+   "url": "https://genius.com/artists/Benny-the-butcher",
+   "iq": 438
+  },
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  }
+ ],
+ "lyrics": "[Intro: Benny the Butcher]\nLet's go\nHah, let's go\nYou know what this is\nThe Butcher comin', nigga\nAy, look\n\n[Verse 1: Benny the Butcher & Pusha T]\nWe don't do no price talk 'cause I already know they numbers\nPlus me and your old connect was tighter than them Dolce runners\nFirst time I ever cooked a deuce, I got a four-way from it\nStabbed it in the pot so many times they think OJ done it\nIf me and Push would've linked back when I was a dealer\nThat's an 18-wheeler to my town from Virginia\nEnough glitter on my neck that make my ex-bitch bitter\nI pulled up to the 'jects pushin' the Lex' like I'm Jigga, uh\nTo really make these type of checks, I took my chances\nWhen I was travelin' without no license, yes, I really took those type of risks\nI'm laughin' at indictment threats, huh, I used to sell Os\nBut now I outsell shows, to the feds, the trail cold\nWhen I was locked, never called, but I used to send mail home\nI got close homies that caught new cases on jail phones\nVelcro strap the clip, got a curve like a elbow\nShe countin' up, when the bitch got the 50, her nail broke\nThey talkin' racks, but my plug bring it back on the sailboat, uh\nAnd I flooded my corner right after the scale broke\nThat's your bitch, but I'm not a nigga she tell no (Yeah)\n'Cause you got the bitch fly, but it wasn't Chanel though\n\n[Verse 2: Pusha T]\nI'm nothin' like you new gangsters, pointin' guns at the camera (Never)\nI bet you niggas practice in the mirror, brick of money to your earlobe\nSix pics, same brick, somethin' weird though\nThey say a hero's nothin' but a sandwich\nThe 488 comin' through like the prayin' mantis\nMy bitches got standards\nIt's fair in love and war, it's okay to fuck a scammer\nAs long as he empty the bag like black Santa\nSteak dinners at Dan Tana's, pick a Tamara\nThe purple in my rainbow is amethyst\nOnly I can coke rap this glamorous\nThe only drug dealer out at Fashion Week\nWith an 80/20 split like Master P\nWhy would I ever 50/50? You ain't half of me\nBenny the Butcher comin' after me, Push\n\n[Outro: Benny the Butcher & Pusha T]\nI flooded my corner\nI flooded my corner right after the scale broke\nThe 488 comin' through like the prayin' mantis\nThat's an 18-wheeler to my town from Virginia\nAs long as he empty the bag\nAs long as he empty the bag like Black Santa\nI used to sell Os, Black Santa\nI used to sell Os, only I can coke rap this glamorous\nThis-this glamorous\nBenny the Butcher, Push, Benny the Butcher, Push"
+}

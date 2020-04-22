@@ -1,0 +1,606 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/4708347",
+ "full_title": "Nightmares Are Real by\u00a0YBN\u00a0Cordae (Ft.\u00a0Pusha\u00a0T)",
+ "header_image_thumbnail_url": "https://images.genius.com/47286291f795dcabf6ef911ae5d1e441.300x300x1.png",
+ "header_image_url": "https://images.genius.com/47286291f795dcabf6ef911ae5d1e441.440x440x1.png",
+ "id": 4708347,
+ "instrumental": false,
+ "lyrics_owner_id": 5748418,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1572315064,
+ "path": "/Ybn-cordae-nightmares-are-real-lyrics",
+ "pyongs_count": 6,
+ "song_art_image_thumbnail_url": "https://images.genius.com/47286291f795dcabf6ef911ae5d1e441.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/47286291f795dcabf6ef911ae5d1e441.440x440x1.png",
+ "stats": {
+  "accepted_annotations": 5,
+  "contributors": 40,
+  "iq_earners": 40,
+  "transcribers": 2,
+  "unreviewed_annotations": 0,
+  "verified_annotations": 0,
+  "hot": false,
+  "pageviews": 37648
+ },
+ "title": "Nightmares Are Real",
+ "title_with_featured": "Nightmares Are Real (Ft.\u00a0Pusha\u00a0T)",
+ "updated_by_human_at": 1576757376,
+ "url": "https://genius.com/Ybn-cordae-nightmares-are-real-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/1469896",
+  "header_image_url": "https://images.genius.com/07d5bb5be98c9c73a27e0996c9cfa043.801x1000x1.jpg",
+  "id": 1469896,
+  "image_url": "https://images.genius.com/3b3626d28612f81e8f2b212bf9e188fe.1000x1000x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "YBN Cordae",
+  "url": "https://genius.com/artists/Ybn-cordae",
+  "iq": 4049
+ },
+ "apple_music_id": "1471022636",
+ "apple_music_player_url": "https://genius.com/songs/4708347/apple_music_player",
+ "description": {
+  "plain": "On \u201cNightmares Are Real,\u201d new-age DMV artist YBN Cordae partners with local mainstay Pusha T as both artists exhibit their storytelling abilities throughout the track.\n\nThis is the first collaboration between these artists and was first teased back in June 2019 on Zane Lowe\u2019s World Record."
+ },
+ "embed_content": "<div id='rg_embed_link_4708347' class='rg_embed_link' data-song-id='4708347'>Read <a href='https://genius.com/Ybn-cordae-nightmares-are-real-lyrics'>\u201cNightmares Are Real\u201d by YBN\u00a0Cordae</a> on Genius</div> <script crossorigin src='//genius.com/songs/4708347/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2019-07-26",
+ "release_date_for_display": "July 26, 2019",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/521486",
+  "cover_art_url": "https://images.genius.com/3602a51f53d7488dbf9df6496a91e7fe.1000x1000x1.png",
+  "full_title": "The Lost Boy by YBN Cordae",
+  "id": 521486,
+  "name": "The Lost Boy",
+  "url": "https://genius.com/albums/Ybn-cordae/The-lost-boy",
+  "artist": {
+   "api_path": "/artists/1469896",
+   "header_image_url": "https://images.genius.com/07d5bb5be98c9c73a27e0996c9cfa043.801x1000x1.jpg",
+   "id": 1469896,
+   "image_url": "https://images.genius.com/3b3626d28612f81e8f2b212bf9e188fe.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "YBN Cordae",
+   "url": "https://genius.com/artists/Ybn-cordae",
+   "iq": 4049
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Assistant Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1166021",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1166021,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zachary Acosta",
+     "url": "https://genius.com/artists/Zachary-acosta"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/641341",
+     "header_image_url": "https://images.genius.com/f883736541eabbfb08e6d079a720db9f.1000x535x1.jpg",
+     "id": 641341,
+     "image_url": "https://images.genius.com/d448111887d2b34267df1ca916335210.299x255x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Kutch",
+     "url": "https://genius.com/artists/Dave-kutch"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/162817",
+     "header_image_url": "https://images.genius.com/61ac3a9fdda58b309c6293ef9e8c64a1.1000x788x1.jpg",
+     "id": 162817,
+     "image_url": "https://images.genius.com/354955a8add8110dc994f74b391f9880.901x901x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ya Boy N.O.I.S.",
+     "url": "https://genius.com/artists/Ya-boy-nois"
+    },
+    {
+     "api_path": "/artists/640014",
+     "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+     "id": 640014,
+     "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mixed by Ali",
+     "url": "https://genius.com/artists/Mixed-by-ali"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/1206683",
+     "header_image_url": "https://images.genius.com/6c8f47021560139ab58c5afc601f5bd4.675x675x1.jpg",
+     "id": 1206683,
+     "image_url": "https://images.genius.com/6c8f47021560139ab58c5afc601f5bd4.675x675x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brenontheboards",
+     "url": "https://genius.com/artists/Brenontheboards"
+    }
+   ]
+  },
+  {
+   "label": "Guitar",
+   "artists": [
+    {
+     "api_path": "/artists/59421",
+     "header_image_url": "https://images.genius.com/ae27979a9a5c251125d89ae28f83064a.315x315x1.jpg",
+     "id": 59421,
+     "image_url": "https://images.genius.com/ae27979a9a5c251125d89ae28f83064a.315x315x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "G Koop",
+     "url": "https://genius.com/artists/G-koop"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3375166,
+  "annotator_login": "SharpshooterWB",
+  "api_path": "/referents/17615126",
+  "classification": "accepted",
+  "fragment": "Nightmares Are Real",
+  "id": 17615126,
+  "is_description": true,
+  "path": "/17615126/Ybn-cordae-nightmares-are-real/Nightmares-are-real",
+  "range": {
+   "content": "Nightmares Are Real"
+  },
+  "song_id": 4708347,
+  "url": "https://genius.com/17615126/Ybn-cordae-nightmares-are-real/Nightmares-are-real",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/4708347",
+   "client_timestamps": {
+    "updated_by_human_at": 1576757376,
+    "lyrics_updated_at": 1572315064
+   },
+   "context": "YBN Cordae",
+   "id": 4708347,
+   "image_url": "https://images.genius.com/47286291f795dcabf6ef911ae5d1e441.440x440x1.png",
+   "link_title": "Nightmares Are Real by\u00a0YBN\u00a0Cordae (Ft.\u00a0Pusha\u00a0T)",
+   "title": "Nightmares Are Real",
+   "type": "Song",
+   "url": "https://genius.com/Ybn-cordae-nightmares-are-real-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17615126",
+    "body": {
+     "plain": "On \u201cNightmares Are Real,\u201d new-age DMV artist YBN Cordae partners with local mainstay Pusha T as both artists exhibit their storytelling abilities throughout the track.\n\nThis is the first collaboration between these artists and was first teased back in June 2019 on Zane Lowe\u2019s World Record."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17615126,
+    "pinned": false,
+    "share_url": "https://genius.com/17615126",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/17615126/Ybn-cordae-nightmares-are-real/Nightmares-are-real",
+    "verified": false,
+    "votes_total": 23,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3375166",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/f5ad556e854be294e987afbec90a9ab9.952x952x1.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/6cd4f76bd6b13de7a556679f76a16295.1000x946x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 3375166,
+       "iq": 228292,
+       "login": "SharpshooterWB",
+       "name": "Wes Brown",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/SharpshooterWB",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  }
+ ],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/54639",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+  "human_readable_role_for_display": "Staff",
+  "id": 54639,
+  "iq": 1502392,
+  "login": "WriteNProppa",
+  "name": "WriteNProppa",
+  "role_for_display": "staff",
+  "url": "https://genius.com/WriteNProppa",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "attribution": "ybncordae",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/ybncordae/nightmares-are-real-feat-pusha-t"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=1Yy8baDt8N4"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/1897630",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "id": 1897630,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Slim Brandon Allen",
+   "url": "https://genius.com/artists/Slim-brandon-allen"
+  },
+  {
+   "api_path": "/artists/1383965",
+   "header_image_url": "https://images.genius.com/2db89e8307e02b92a26578ee568e0404.1000x1000x1.jpg",
+   "id": 1383965,
+   "image_url": "https://images.genius.com/2db89e8307e02b92a26578ee568e0404.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "ILLUID HALLER",
+   "url": "https://genius.com/artists/Illuid-haller"
+  },
+  {
+   "api_path": "/artists/1504516",
+   "header_image_url": "https://images.genius.com/d69310f79a664f9f7482669afeeef7d7.780x438x1.jpg",
+   "id": 1504516,
+   "image_url": "https://images.genius.com/6bab6c067cb1efe1f15889843a6b1390.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Kid Culture",
+   "url": "https://genius.com/artists/Kid-culture"
+  },
+  {
+   "api_path": "/artists/1563594",
+   "header_image_url": "https://images.genius.com/98cee9e29654fdb53a6004d183a4b325.744x744x1.jpg",
+   "id": 1563594,
+   "image_url": "https://images.genius.com/98cee9e29654fdb53a6004d183a4b325.744x744x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "BazeXX",
+   "url": "https://genius.com/artists/Bazexx"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/1897630",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "id": 1897630,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Slim Brandon Allen",
+   "url": "https://genius.com/artists/Slim-brandon-allen"
+  },
+  {
+   "api_path": "/artists/1383965",
+   "header_image_url": "https://images.genius.com/2db89e8307e02b92a26578ee568e0404.1000x1000x1.jpg",
+   "id": 1383965,
+   "image_url": "https://images.genius.com/2db89e8307e02b92a26578ee568e0404.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "ILLUID HALLER",
+   "url": "https://genius.com/artists/Illuid-haller"
+  },
+  {
+   "api_path": "/artists/1563594",
+   "header_image_url": "https://images.genius.com/98cee9e29654fdb53a6004d183a4b325.744x744x1.jpg",
+   "id": 1563594,
+   "image_url": "https://images.genius.com/98cee9e29654fdb53a6004d183a4b325.744x744x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "BazeXX",
+   "url": "https://genius.com/artists/Bazexx"
+  },
+  {
+   "api_path": "/artists/1504516",
+   "header_image_url": "https://images.genius.com/d69310f79a664f9f7482669afeeef7d7.780x438x1.jpg",
+   "id": 1504516,
+   "image_url": "https://images.genius.com/6bab6c067cb1efe1f15889843a6b1390.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Kid Culture",
+   "url": "https://genius.com/artists/Kid-culture"
+  },
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  },
+  {
+   "api_path": "/artists/1469896",
+   "header_image_url": "https://images.genius.com/07d5bb5be98c9c73a27e0996c9cfa043.801x1000x1.jpg",
+   "id": 1469896,
+   "image_url": "https://images.genius.com/3b3626d28612f81e8f2b212bf9e188fe.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "YBN Cordae",
+   "url": "https://genius.com/artists/Ybn-cordae",
+   "iq": 4049
+  }
+ ],
+ "lyrics": "[Verse 1: YBN Cordae]\nOkay, uh, I can tell you how I first started in this rap shit\nMama kicked a nigga out the house, felt fantastic\nTold my homies, \"If you got a couch, know I'm crashin'\nWorried 'bout my future, couldn't care about the past tense\nLost my grandmother, and I haven't been the same since\nStart to get anxious, I'm tired of this lame shit\nTired of the struggle, livin' family in the subdivision\nRamen noodles, drawin' doodles wasn't in my fuckin' vision\nBut who's fault is that? Tryna stay all intact\nFightin' all my demons, they be schemin' but I'm crawlin' back\nAnd eventually flyin', lately been mentally cryin'\nNiggas resentin' me, I am not for the industry lyin'\n\n[Chorus: YBN Cordae & Pusha T]\nLife's a dream, but nothin' is a fairytale\nDo you love me? I can barely tell\n'Cause I'm up and down, been all around, nobody's callin' now\nNo, no, no, no, no, no\nNo, no, no, no, no, no\nUh, 'cause I know what I been through\nBut I still, uh, I'd do it all over again\nAnd my life is so sinful (YBN, why be them?)\nBut through times, uh (King Push)\nThe good guys always win\n\n[Verse 2: Pusha T]\nI can tell you how I first started in this rap shit\n8th grade, backflippin' on the mattress\n9th grade, pack doin' gymnastics\n10th grade, somersaultin' all them crack flips\nAsterisk, skipped school, recorded with The Neptunes\nWe was makin' high school classics\nBefore I took a kilo and I wrapped it, I rapped it\nAround the funeral with the casket (Yuugh!)\nCoke avalanche, like a landslide\nOnly grew my hair this long because my man died\nCollect calls on them landlines, I pressed 5\nTo tell about the new test drive and talk fly, ooh\n\n[Chorus: YBN Cordae]\nLife's a dream, but nothin' is a fairytale\nDo you love me? I can barely tell\n'Cause I'm up and down, been all around, nobody's callin' now\nNo, no, no, no, no, no\nNo, no, no, no, no, no\nUh, 'cause I know what I been through\nBut I still, uh, I'd do it all over again\nAnd my life is so sinful\nBut through times, uh\nThe good guys always win"
+}

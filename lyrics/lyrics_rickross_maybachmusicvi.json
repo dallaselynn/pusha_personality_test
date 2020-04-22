@@ -1,0 +1,743 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/4720077",
+ "full_title": "Maybach Music VI by\u00a0Rick\u00a0Ross (Ft.\u00a0John\u00a0Legend & Lil\u00a0Wayne)",
+ "header_image_thumbnail_url": "https://images.genius.com/5a991d85109dc0475ca271090881ae2f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/5a991d85109dc0475ca271090881ae2f.1000x1000x1.jpg",
+ "id": 4720077,
+ "instrumental": false,
+ "lyrics_owner_id": 5748418,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1572794775,
+ "path": "/Rick-ross-maybach-music-vi-lyrics",
+ "pyongs_count": 1,
+ "song_art_image_thumbnail_url": "https://images.genius.com/5a991d85109dc0475ca271090881ae2f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/5a991d85109dc0475ca271090881ae2f.1000x1000x1.jpg",
+ "stats": {
+  "accepted_annotations": 0,
+  "contributors": 21,
+  "iq_earners": 21,
+  "transcribers": 3,
+  "unreviewed_annotations": 1,
+  "verified_annotations": 0,
+  "hot": false,
+  "pageviews": 33886
+ },
+ "title": "Maybach Music VI",
+ "title_with_featured": "Maybach Music VI (Ft.\u00a0John\u00a0Legend & Lil\u00a0Wayne)",
+ "updated_by_human_at": 1572794775,
+ "url": "https://genius.com/Rick-ross-maybach-music-vi-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/88",
+  "header_image_url": "https://images.genius.com/63765912cb46406696fba044850e3c1d.770x588x1.jpg",
+  "id": 88,
+  "image_url": "https://images.genius.com/3dce21029cdd8aab73eb473e015807d5.1000x1000x1.jpg",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Rick Ross",
+  "url": "https://genius.com/artists/Rick-ross",
+  "iq": 4974
+ },
+ "apple_music_id": "1473864915",
+ "apple_music_player_url": "https://genius.com/songs/4720077/apple_music_player",
+ "description": {
+  "plain": "\u201cMaybach Music VI\u201d is a highly anticipated track from Rick Ross, that includes highly publicized features from John Legend and Lil Wayne. On the track, the artists describe their adjustment to fame but also boast about how they stayed true to themselves throughout the process.\n\nThe track is the sixth installment in the famous Maybach Music series, which began in 2008. His most recent edition, \u201cMaybach Music V,\u201d was released in March 2017 and appeared on his ninth studio album Rather You Than Me.\n\nThe track was originally supposed to feature a guest verse from Pusha T but it reportedly got removed prior to the song\u2019s release. Pusha\u2019s full verse was later released in entirety on Twitter:\n\nhttps://twitter.com/Myles_Brumfield/status/1159676278850695173"
+ },
+ "embed_content": "<div id='rg_embed_link_4720077' class='rg_embed_link' data-song-id='4720077'>Read <a href='https://genius.com/Rick-ross-maybach-music-vi-lyrics'>\u201cMaybach Music VI\u201d by Rick\u00a0Ross</a> on Genius</div> <script crossorigin src='//genius.com/songs/4720077/embed.js'></script>",
+ "featured_video": true,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2019-08-09",
+ "release_date_for_display": "August 9, 2019",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/399000",
+  "cover_art_url": "https://images.genius.com/5a991d85109dc0475ca271090881ae2f.1000x1000x1.jpg",
+  "full_title": "Port of Miami 2 by Rick Ross",
+  "id": 399000,
+  "name": "Port of Miami 2",
+  "url": "https://genius.com/albums/Rick-ross/Port-of-miami-2",
+  "artist": {
+   "api_path": "/artists/88",
+   "header_image_url": "https://images.genius.com/63765912cb46406696fba044850e3c1d.770x588x1.jpg",
+   "id": 88,
+   "image_url": "https://images.genius.com/3dce21029cdd8aab73eb473e015807d5.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Rick Ross",
+   "url": "https://genius.com/artists/Rick-ross",
+   "iq": 4974
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/27658",
+     "header_image_url": "https://images.genius.com/4f89d8ea8c778e84e0b60da638d19f0c.188x188x1.jpg",
+     "id": 27658,
+     "image_url": "https://images.genius.com/4f89d8ea8c778e84e0b60da638d19f0c.188x188x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Leslie Brathwaite",
+     "url": "https://genius.com/artists/Leslie-brathwaite"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/45196",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 45196,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Trop",
+     "url": "https://genius.com/artists/Trop"
+    }
+   ]
+  },
+  {
+   "label": "Bass",
+   "artists": [
+    {
+     "api_path": "/artists/1911977",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1911977,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "J Troy Bass",
+     "url": "https://genius.com/artists/J-troy-bass"
+    }
+   ]
+  },
+  {
+   "label": "Horn",
+   "artists": [
+    {
+     "api_path": "/artists/1063540",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1063540,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joshua Vincent",
+     "url": "https://genius.com/artists/Joshua-vincent"
+    },
+    {
+     "api_path": "/artists/1063539",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1063539,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonah Vincent",
+     "url": "https://genius.com/artists/Jonah-vincent"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/587689",
+     "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+     "id": 587689,
+     "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Colin Leonard",
+     "url": "https://genius.com/artists/Colin-leonard"
+    }
+   ]
+  },
+  {
+   "label": "Misc. Production",
+   "artists": [
+    {
+     "api_path": "/artists/987672",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 987672,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tyler Cates",
+     "url": "https://genius.com/artists/Tyler-cates"
+    }
+   ]
+  },
+  {
+   "label": "Percussion",
+   "artists": [
+    {
+     "api_path": "/artists/1911976",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1911976,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gumbi Ortiz",
+     "url": "https://genius.com/artists/Gumbi-ortiz"
+    }
+   ]
+  },
+  {
+   "label": "Piano",
+   "artists": [
+    {
+     "api_path": "/artists/666363",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 666363,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Everett",
+     "url": "https://genius.com/artists/Everett"
+    },
+    {
+     "api_path": "/artists/1911970",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1911970,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joshua \u201cPrincipal Muzik\u201d",
+     "url": "https://genius.com/artists/Joshua-principal-muzik"
+    }
+   ]
+  },
+  {
+   "label": "Strings",
+   "artists": [
+    {
+     "api_path": "/artists/1079650",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1079650,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Page",
+     "url": "https://genius.com/artists/Alex-page"
+    }
+   ]
+  },
+  {
+   "label": "Guitar",
+   "artists": [
+    {
+     "api_path": "/artists/987672",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 987672,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tyler Cates",
+     "url": "https://genius.com/artists/Tyler-cates"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8117646,
+  "annotator_login": "TrappaChiNo",
+  "api_path": "/referents/17650373",
+  "classification": "accepted",
+  "fragment": "Maybach Music VI",
+  "id": 17650373,
+  "is_description": true,
+  "path": "/17650373/Rick-ross-maybach-music-vi/Maybach-music-vi",
+  "range": {
+   "content": "Maybach Music VI"
+  },
+  "song_id": 4720077,
+  "url": "https://genius.com/17650373/Rick-ross-maybach-music-vi/Maybach-music-vi",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/4720077",
+   "client_timestamps": {
+    "updated_by_human_at": 1572794775,
+    "lyrics_updated_at": 1572794775
+   },
+   "context": "Rick Ross",
+   "id": 4720077,
+   "image_url": "https://images.genius.com/5a991d85109dc0475ca271090881ae2f.1000x1000x1.jpg",
+   "link_title": "Maybach Music VI by\u00a0Rick\u00a0Ross (Ft.\u00a0John\u00a0Legend & Lil\u00a0Wayne)",
+   "title": "Maybach Music VI",
+   "type": "Song",
+   "url": "https://genius.com/Rick-ross-maybach-music-vi-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17650373",
+    "body": {
+     "plain": "\u201cMaybach Music VI\u201d is a highly anticipated track from Rick Ross, that includes highly publicized features from John Legend and Lil Wayne. On the track, the artists describe their adjustment to fame but also boast about how they stayed true to themselves throughout the process.\n\nThe track is the sixth installment in the famous Maybach Music series, which began in 2008. His most recent edition, \u201cMaybach Music V,\u201d was released in March 2017 and appeared on his ninth studio album Rather You Than Me.\n\nThe track was originally supposed to feature a guest verse from Pusha T but it reportedly got removed prior to the song\u2019s release. Pusha\u2019s full verse was later released in entirety on Twitter:\n\nhttps://twitter.com/Myles_Brumfield/status/1159676278850695173"
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17650373,
+    "pinned": false,
+    "share_url": "https://genius.com/17650373",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/17650373/Rick-ross-maybach-music-vi/Maybach-music-vi",
+    "verified": false,
+    "votes_total": 14,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.736842105263158,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8117646",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/7367f5ae5b4de0f05a6ee48cc22833b7.1000x1000x8.gif",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8117646,
+       "iq": 435467,
+       "login": "TrappaChiNo",
+       "name": "TrappaChiNo",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/TrappaChiNo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.2631578947368421,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3390361",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/2ac8be9083be53275e54a9f89f99c9c7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/2ac8be9083be53275e54a9f89f99c9c7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/2ac8be9083be53275e54a9f89f99c9c7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/2ac8be9083be53275e54a9f89f99c9c7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/T4FnVmyAQLukRQq4Ja7E_kyliejennercomplez2016_4.PNG",
+       "human_readable_role_for_display": "Editor",
+       "id": 3390361,
+       "iq": 198729,
+       "login": "DripKxng",
+       "name": "DripKxng",
+       "role_for_display": "editor",
+       "url": "https://genius.com/DripKxng",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/365",
+   "header_image_url": "https://images.genius.com/f8a1e2086795298f328e3993e3c87105.667x1000x1.jpg",
+   "id": 365,
+   "image_url": "https://images.genius.com/bd03e06628a565b7838715dfd78e346c.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "John Legend",
+   "url": "https://genius.com/artists/John-legend",
+   "iq": 1845
+  },
+  {
+   "api_path": "/artists/4",
+   "header_image_url": "https://images.genius.com/0cc2fdca3461d34878a59e3791b35e7b.500x278x13.gif",
+   "id": 4,
+   "image_url": "https://images.genius.com/b42bde67bc461dd55a00b577f33673bb.745x745x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Lil Wayne",
+   "url": "https://genius.com/artists/Lil-wayne",
+   "iq": 3960
+  }
+ ],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/2976672",
+  "avatar": {
+   "tiny": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://i.genius.com/de04298412fbfab0ac172efc5ac153ae40a00ca1?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2FZaAj5CES1GN39GENWgiz%3Fpolicy%3DeyJleHBpcnkiOjIzNTEwOTE1NTgsImNhbGwiOlsicGljayIsInJlYWQiLCJzdG9yZSIsInN0YXQiLCJjb252ZXJ0Il19%26signature%3D68597b455e6c09bce0bfd73f758e299c95d49a5d5c8e808aaf4877da7801c4da",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gjw8z3svfg",
+  "human_readable_role_for_display": "Staff",
+  "id": 2976672,
+  "iq": 116620,
+  "login": "GaryTheJerk",
+  "name": "GaryTheJerk",
+  "role_for_display": "staff",
+  "url": "https://genius.com/GaryTheJerk",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=J0EEHE79EtA"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/23132",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/1351915207_Justice-League.jpg",
+   "id": 23132,
+   "image_url": "https://s3.amazonaws.com/rapgenius/1351915207_Justice-League.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "J.U.S.T.I.C.E. League",
+   "url": "https://genius.com/artists/Justice-league"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": []
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": [
+    {
+     "annotation_count": 1,
+     "api_path": "/songs/4767802",
+     "full_title": "Maybach Music VI (Extended) by\u00a0Rick\u00a0Ross (Ft.\u00a0John\u00a0Legend, Lil\u00a0Wayne & Pusha\u00a0T)",
+     "header_image_thumbnail_url": "https://images.genius.com/3dce21029cdd8aab73eb473e015807d5.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/3dce21029cdd8aab73eb473e015807d5.1000x1000x1.jpg",
+     "id": 4767802,
+     "lyrics_owner_id": 8117646,
+     "lyrics_state": "complete",
+     "path": "/Rick-ross-maybach-music-vi-extended-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/3dce21029cdd8aab73eb473e015807d5.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/3dce21029cdd8aab73eb473e015807d5.1000x1000x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false,
+      "pageviews": 12418
+     },
+     "title": "Maybach Music VI (Extended)",
+     "title_with_featured": "Maybach Music VI (Extended) (Ft.\u00a0John\u00a0Legend, Lil\u00a0Wayne & Pusha\u00a0T)",
+     "url": "https://genius.com/Rick-ross-maybach-music-vi-extended-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/88",
+      "header_image_url": "https://images.genius.com/63765912cb46406696fba044850e3c1d.770x588x1.jpg",
+      "id": 88,
+      "image_url": "https://images.genius.com/3dce21029cdd8aab73eb473e015807d5.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Rick Ross",
+      "url": "https://genius.com/artists/Rick-ross",
+      "iq": 4974
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/23132",
+   "header_image_url": "https://s3.amazonaws.com/rapgenius/1351915207_Justice-League.jpg",
+   "id": 23132,
+   "image_url": "https://s3.amazonaws.com/rapgenius/1351915207_Justice-League.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "J.U.S.T.I.C.E. League",
+   "url": "https://genius.com/artists/Justice-league"
+  },
+  {
+   "api_path": "/artists/402746",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "id": 402746,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Erik \u201cRook\u201d Ortiz",
+   "url": "https://genius.com/artists/Erik-rook-ortiz"
+  },
+  {
+   "api_path": "/artists/402745",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "id": 402745,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Kevin \u201cColione\u201d Crowe",
+   "url": "https://genius.com/artists/Kevin-colione-crowe"
+  },
+  {
+   "api_path": "/artists/713055",
+   "header_image_url": "https://images.genius.com/81061be69225e0a5a33bdb24a2e70746.1000x750x1.jpg",
+   "id": 713055,
+   "image_url": "https://images.genius.com/b49690f15b9f71a15cba60b7d37e3e9e.194x194x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Hubert Eaves III",
+   "url": "https://genius.com/artists/Hubert-eaves-iii"
+  },
+  {
+   "api_path": "/artists/88",
+   "header_image_url": "https://images.genius.com/63765912cb46406696fba044850e3c1d.770x588x1.jpg",
+   "id": 88,
+   "image_url": "https://images.genius.com/3dce21029cdd8aab73eb473e015807d5.1000x1000x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Rick Ross",
+   "url": "https://genius.com/artists/Rick-ross",
+   "iq": 4974
+  }
+ ],
+ "lyrics": "[Intro]\nJ.U.S.T.I.C.E League\n\n[Chorus: John Legend]\nOh, glidin' through the city to my place (My place)\nIt feels like we're floatin' up in outer space (And you can still)\nOh, you can find me in my Maybach\nListening to shit from way back (Maybach Music)\nOh, ah, Maybach Music (Maybach Music)\n\n[Verse 1: Rick Ross]\nFlows mind-blowing, these niggas switching the topic\nAll dick-riders, your label labeled erotic\nYou got a couple dollars, but really, it's barely modest\nCouldn't sign me if you niggas was payin' homage\nPlayin' both sides, convicted you with verdict\nPay a lil' rider, come hit you up for the murder\nChains all hollow, I peeped soon as I heard it\nThese niggas be talkin' shooter, but quick to send they attorney\nIs it really real, like Candy Lady allure?\nMoney overboard, kilos washin' ashore\nPaintings on the wall, Versace down to the drawers\nCurrency come in Crypto, you know they tapin' our calls\nChariots and lofts, niggas legs crossed\nTalkin' long money, but they conversation's short\nNew accolades with women for me to toss\nThey call it \"the road to riches\", regardless, I had to walk\nNow it's too many cars, they say I live in a bubble\nBut I make it the point, we poppin' all through the Summer\nGot pilots and gunners, receivers, passers and punters\nMy pockets playin' for keeps, G's get more than what's common\nI made a few mistakes, I pray I get to repent\nThe passion came from the pain, I'm paintin' you all my sins\nWarhol, Art Basel how it's so soft\nMore raw 'til Hov cut the 'fro off\n\n[Chorus: John Legend]\nGlidin' through the city to my place (My place)\nIt feels like we're floatin' up in outer space (And you can still)\nOh, you can find me in my Maybach\nListening to shit from way back (Maybach Music)\nOh, ah, Maybach Music\n\n[Verse 2: Lil Wayne]\nLet's go for a ride to where your heart desire\nI put your heart in drive, I'll let you borrow mine\nMy feet on top the clouds, I walk a thousand miles\nShe got them soft pussy lips, call it cotton mouth\nAnd I'm on autopilot, got a larger closet\nI'm at target practice, you at Target shoppin'\nSecond hand smoke got her vision partly cloudy\nHer eyes get so watery, them bitches started drownin'\nOn the ride of a lifetime\nWatch out for the rats, mice, cons and the pythons\nNo Triple H, my God, I'm so sky high\nComin' down from the night sky, like a lightening rod\nShine like some ice, nice vibes, like a kite flyin'\nNo strings attached, we replace it with a lifeline\nOut of body feelin', out our clothes and our right minds\nBaby, ride me like a bumpy road to the high rise, yeah, yeah\n\n[Chorus: John Legend]\nGlidin' through the city to my place (My place)\nIt feels like we're floatin' up in outer space (And you can still)\nOh, you can find me in my Maybach\nListening to shit from way back (Maybach Music)\nOh, ah, Maybach Music\nGlidin' through the city to my place (My place)\nIt feels like we're floatin' up in outer space (And you can still)\nOh, Maybach Music"
+}

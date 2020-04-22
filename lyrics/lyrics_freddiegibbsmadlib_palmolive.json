@@ -1,0 +1,789 @@
+{
+ "_type": "song",
+ "annotation_count": 30,
+ "api_path": "/songs/4500029",
+ "full_title": "Palmolive by\u00a0Freddie\u00a0Gibbs & Madlib (Ft.\u00a0Killer\u00a0Mike & Pusha\u00a0T)",
+ "header_image_thumbnail_url": "https://images.genius.com/d0bc88e39fc7bedd05a4a8079445a357.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d0bc88e39fc7bedd05a4a8079445a357.1000x1000x1.jpg",
+ "id": 4500029,
+ "instrumental": false,
+ "lyrics_owner_id": 8117646,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1587154070,
+ "path": "/Freddie-gibbs-and-madlib-palmolive-lyrics",
+ "pyongs_count": 15,
+ "song_art_image_thumbnail_url": "https://images.genius.com/d0bc88e39fc7bedd05a4a8079445a357.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d0bc88e39fc7bedd05a4a8079445a357.1000x1000x1.jpg",
+ "stats": {
+  "accepted_annotations": 18,
+  "contributors": 94,
+  "iq_earners": 94,
+  "transcribers": 3,
+  "unreviewed_annotations": 11,
+  "verified_annotations": 0,
+  "hot": false,
+  "pageviews": 123483
+ },
+ "title": "Palmolive",
+ "title_with_featured": "Palmolive (Ft.\u00a0Killer\u00a0Mike & Pusha\u00a0T)",
+ "updated_by_human_at": 1587154071,
+ "url": "https://genius.com/Freddie-gibbs-and-madlib-palmolive-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/369731",
+  "header_image_url": "https://images.genius.com/2eb3f59d594845b44e386218ded796a0.801x1000x1.jpg",
+  "id": 369731,
+  "image_url": "https://images.genius.com/500c6c228523984f35ee5d111dfc183d.1000x1000x1.jpg",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Freddie Gibbs & Madlib",
+  "url": "https://genius.com/artists/Freddie-gibbs-and-madlib"
+ },
+ "apple_music_id": "1464243894",
+ "apple_music_player_url": "https://genius.com/songs/4500029/apple_music_player",
+ "description": {
+  "plain": "\u201cPalmolive\u201d serves as the sixth track on Bandana, which is a collaborative album between Freddie Gibbs and Madlib.\n\nOn the Pusha-T and Killer Mike assisted track, the artists discuss a wide variety of topics, including sarcastic takes on President Donald Trump\u2019s administration, their own physical possessions, and relationships with women."
+ },
+ "embed_content": "<div id='rg_embed_link_4500029' class='rg_embed_link' data-song-id='4500029'>Read <a href='https://genius.com/Freddie-gibbs-and-madlib-palmolive-lyrics'>\u201cPalmolive\u201d by Freddie\u00a0Gibbs & Madlib</a> on Genius</div> <script crossorigin src='//genius.com/songs/4500029/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": "2019-06-28",
+ "release_date_for_display": "June 28, 2019",
+ "current_user_metadata": {
+  "permissions": [
+   "see_pageviews",
+   "view_apple_music_player",
+   "create_comment",
+   "view_song_story_gallery"
+  ],
+  "excluded_permissions": [
+   "follow",
+   "award_transcription_iq",
+   "remove_transcription_iq",
+   "pyong",
+   "edit_lyrics",
+   "view_annotation_engagement_data",
+   "publish",
+   "unpublish",
+   "edit_spotify_details",
+   "hide",
+   "unhide",
+   "toggle_featured_video",
+   "add_pinned_annotation_to",
+   "add_community_annotation_to",
+   "destroy",
+   "mark_as_not_spam",
+   "edit_spotify_annotations_for",
+   "verify_lyrics",
+   "unverify_lyrics",
+   "edit_anything",
+   "edit_any_media",
+   "edit",
+   "rename",
+   "edit_tags",
+   "watch_fact_track",
+   "reindex",
+   "view_lyrics_synchronization",
+   "enable_media",
+   "disable_media",
+   "edit_lyrics_or_annotation_brackets",
+   "see_editorial_indicators",
+   "view_attribution_visualization",
+   "edit_annotation_brackets",
+   "preview_lyrics_for_export",
+   "hide_apple_player",
+   "unhide_apple_player",
+   "trigger_apple_match",
+   "mark_lyrics_evaluation_as_approved",
+   "mark_lyrics_evaluation_as_staff_approved",
+   "mark_lyrics_evaluation_as_unapproved",
+   "mark_lyrics_evaluation_as_un_staff_approved",
+   "view_transcriber_media_player",
+   "override_apple_match",
+   "edit_youtube_url",
+   "edit_soundcloud_url",
+   "edit_spotify_uuid",
+   "edit_vevo_url",
+   "moderate_annotations",
+   "create_annotation",
+   "see_short_id",
+   "manage_chart_item",
+   "create_tag",
+   "propose_lyrics_edit",
+   "moderate_lyrics_edit_proposals",
+   "preview_react_song_page"
+  ],
+  "interactions": {
+   "pyong": false,
+   "following": false
+  },
+  "relationships": {},
+  "iq_by_action": {}
+ },
+ "album": {
+  "api_path": "/albums/506222",
+  "cover_art_url": "https://images.genius.com/d0bc88e39fc7bedd05a4a8079445a357.1000x1000x1.jpg",
+  "full_title": "Bandana by Freddie Gibbs & Madlib",
+  "id": 506222,
+  "name": "Bandana",
+  "url": "https://genius.com/albums/Freddie-gibbs-and-madlib/Bandana",
+  "artist": {
+   "api_path": "/artists/369731",
+   "header_image_url": "https://images.genius.com/2eb3f59d594845b44e386218ded796a0.801x1000x1.jpg",
+   "id": 369731,
+   "image_url": "https://images.genius.com/500c6c228523984f35ee5d111dfc183d.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Freddie Gibbs & Madlib",
+   "url": "https://genius.com/artists/Freddie-gibbs-and-madlib"
+  }
+ },
+ "custom_performances": [
+  {
+   "label": "Label",
+   "artists": [
+    {
+     "api_path": "/artists/88331",
+     "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+     "id": 88331,
+     "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sony Music Entertainment",
+     "url": "https://genius.com/artists/Sony-music-entertainment"
+    },
+    {
+     "api_path": "/artists/154526",
+     "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+     "id": 154526,
+     "image_url": "https://images.genius.com/046fa426b49ab40f1bc84df6b6bf74ee.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "RCA Records",
+     "url": "https://genius.com/artists/Rca-records"
+    },
+    {
+     "api_path": "/artists/1720011",
+     "header_image_url": "https://images.genius.com/6c9823effdf8f1a54f3e4681b86b5054.400x400x1.jpg",
+     "id": 1720011,
+     "image_url": "https://images.genius.com/6c9823effdf8f1a54f3e4681b86b5054.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Keep Cool Records",
+     "url": "https://genius.com/artists/Keep-cool-records"
+    },
+    {
+     "api_path": "/artists/1409429",
+     "header_image_url": "https://images.genius.com/cd65ecf8d02d5952875bcbfa8f6c8bc4.300x300x1.jpg",
+     "id": 1409429,
+     "image_url": "https://images.genius.com/cd65ecf8d02d5952875bcbfa8f6c8bc4.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ESGN Records",
+     "url": "https://genius.com/artists/Esgn-records"
+    },
+    {
+     "api_path": "/artists/1749988",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1749988,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Madlib Invazion",
+     "url": "https://genius.com/artists/Madlib-invazion"
+    }
+   ]
+  },
+  {
+   "label": "Primary Artists",
+   "artists": [
+    {
+     "api_path": "/artists/939",
+     "header_image_url": "https://images.genius.com/eb0f9c196fe929a248bccba2428d22a8.510x504x1.png",
+     "id": 939,
+     "image_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.899x899x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Freddie Gibbs",
+     "url": "https://genius.com/artists/Freddie-gibbs",
+     "iq": 5221
+    },
+    {
+     "api_path": "/artists/6788",
+     "header_image_url": "https://images.genius.com/fffc972dfac559f4e7094bb485d1d13d.1000x326x1.png",
+     "id": 6788,
+     "image_url": "https://images.genius.com/2334fd49679f4ee0d692a8287cedb409.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Madlib",
+     "url": "https://genius.com/artists/Madlib"
+    }
+   ]
+  },
+  {
+   "label": "Phonographic Copyright \u2117",
+   "artists": [
+    {
+     "api_path": "/artists/154526",
+     "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+     "id": 154526,
+     "image_url": "https://images.genius.com/046fa426b49ab40f1bc84df6b6bf74ee.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "RCA Records",
+     "url": "https://genius.com/artists/Rca-records"
+    },
+    {
+     "api_path": "/artists/1720011",
+     "header_image_url": "https://images.genius.com/6c9823effdf8f1a54f3e4681b86b5054.400x400x1.jpg",
+     "id": 1720011,
+     "image_url": "https://images.genius.com/6c9823effdf8f1a54f3e4681b86b5054.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Keep Cool Records",
+     "url": "https://genius.com/artists/Keep-cool-records"
+    }
+   ]
+  },
+  {
+   "label": "Recording Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/31285",
+     "header_image_url": "https://images.genius.com/5840a8f9632efe1c8ef4064b747fe58a.215x144x1.jpg",
+     "id": 31285,
+     "image_url": "https://images.genius.com/a5b2f9fec12fb361dbdd121af19d99c9.256x256x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Speakerbomb",
+     "url": "https://genius.com/artists/Speakerbomb"
+    },
+    {
+     "api_path": "/artists/1507065",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1507065,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "RichGains",
+     "url": "https://genius.com/artists/Richgains"
+    },
+    {
+     "api_path": "/artists/1448864",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1448864,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fabian Hummel",
+     "url": "https://genius.com/artists/Fabian-hummel"
+    },
+    {
+     "api_path": "/artists/1507081",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "id": 1507081,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eric \u201cEnstrumentals\u201d Sandoval",
+     "url": "https://genius.com/artists/Eric-enstrumentals-sandoval"
+    }
+   ]
+  },
+  {
+   "label": "Mixing Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/22921",
+     "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+     "id": 22921,
+     "image_url": "https://images.genius.com/78cf553bd4fdaef74336a6b44cd205fc.750x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mario Caldato Jr.",
+     "url": "https://genius.com/artists/Mario-caldato-jr"
+    }
+   ]
+  },
+  {
+   "label": "Mastering Engineer",
+   "artists": [
+    {
+     "api_path": "/artists/65289",
+     "header_image_url": "https://images.genius.com/d77ea37465e89a1883fc0e6bfb1cc4f7.801x801x1.jpg",
+     "id": 65289,
+     "image_url": "https://images.genius.com/d77ea37465e89a1883fc0e6bfb1cc4f7.801x801x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Cooley",
+     "url": "https://genius.com/artists/Dave-cooley"
+    }
+   ]
+  }
+ ],
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8117646,
+  "annotator_login": "TrappaChiNo",
+  "api_path": "/referents/17018147",
+  "classification": "accepted",
+  "fragment": "Palmolive",
+  "id": 17018147,
+  "is_description": true,
+  "path": "/17018147/Freddie-gibbs-and-madlib-palmolive/Palmolive",
+  "range": {
+   "content": "Palmolive"
+  },
+  "song_id": 4500029,
+  "url": "https://genius.com/17018147/Freddie-gibbs-and-madlib-palmolive/Palmolive",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/songs/4500029",
+   "client_timestamps": {
+    "updated_by_human_at": 1587154071,
+    "lyrics_updated_at": 1587154070
+   },
+   "context": "Freddie Gibbs & Madlib",
+   "id": 4500029,
+   "image_url": "https://images.genius.com/d0bc88e39fc7bedd05a4a8079445a357.1000x1000x1.jpg",
+   "link_title": "Palmolive by\u00a0Freddie\u00a0Gibbs & Madlib (Ft.\u00a0Killer\u00a0Mike & Pusha\u00a0T)",
+   "title": "Palmolive",
+   "type": "Song",
+   "url": "https://genius.com/Freddie-gibbs-and-madlib-palmolive-lyrics"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17018147",
+    "body": {
+     "plain": "\u201cPalmolive\u201d serves as the sixth track on Bandana, which is a collaborative album between Freddie Gibbs and Madlib.\n\nOn the Pusha-T and Killer Mike assisted track, the artists discuss a wide variety of topics, including sarcastic takes on President Donald Trump\u2019s administration, their own physical possessions, and relationships with women."
+    },
+    "comment_count": 3,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17018147,
+    "pinned": false,
+    "share_url": "https://genius.com/17018147",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/17018147/Freddie-gibbs-and-madlib-palmolive/Palmolive",
+    "verified": false,
+    "votes_total": 52,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.98,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8117646",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b82391d26056f643e1ca6a70231d79a8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/7367f5ae5b4de0f05a6ee48cc22833b7.1000x1000x8.gif",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8117646,
+       "iq": 435467,
+       "login": "TrappaChiNo",
+       "name": "TrappaChiNo",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/TrappaChiNo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.02,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/54639",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+       "human_readable_role_for_display": "Staff",
+       "id": 54639,
+       "iq": 1502465,
+       "login": "WriteNProppa",
+       "name": "WriteNProppa",
+       "role_for_display": "staff",
+       "url": "https://genius.com/WriteNProppa",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "featured_artists": [
+  {
+   "api_path": "/artists/547",
+   "header_image_url": "https://images.genius.com/86239d3de00e4660583da44a02ffa821.820x546x1.jpg",
+   "id": 547,
+   "image_url": "https://images.genius.com/86239d3de00e4660583da44a02ffa821.820x546x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Killer Mike",
+   "url": "https://genius.com/artists/Killer-mike",
+   "iq": 100
+  },
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  }
+ ],
+ "lyrics_marked_complete_by": {
+  "api_path": "/users/54639",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+  "human_readable_role_for_display": "Staff",
+  "id": 54639,
+  "iq": 1502465,
+  "login": "WriteNProppa",
+  "name": "WriteNProppa",
+  "role_for_display": "staff",
+  "url": "https://genius.com/WriteNProppa",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "media": [
+  {
+   "attribution": "gangstagibbs",
+   "provider": "soundcloud",
+   "type": "audio",
+   "url": "https://soundcloud.com/gangstagibbs/palmolive-feat-pusha-t-killer?in=gangstagibbs/sets/bandana-16"
+  },
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=9zwKKJaOiqc"
+  }
+ ],
+ "producer_artists": [
+  {
+   "api_path": "/artists/6788",
+   "header_image_url": "https://images.genius.com/fffc972dfac559f4e7094bb485d1d13d.1000x326x1.png",
+   "id": 6788,
+   "image_url": "https://images.genius.com/2334fd49679f4ee0d692a8287cedb409.400x400x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Madlib",
+   "url": "https://genius.com/artists/Madlib"
+  }
+ ],
+ "song_relationships": [
+  {
+   "relationship_type": "samples",
+   "type": "samples",
+   "songs": [
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4075077",
+     "full_title": "Dust A Sound Boy by\u00a0Super\u00a0Beagle",
+     "header_image_thumbnail_url": "https://images.genius.com/381b09a0117491bec61202d32456d966.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/381b09a0117491bec61202d32456d966.300x300x1.jpg",
+     "id": 4075077,
+     "lyrics_owner_id": 3836093,
+     "lyrics_state": "complete",
+     "path": "/Super-beagle-dust-a-sound-boy-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/381b09a0117491bec61202d32456d966.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/381b09a0117491bec61202d32456d966.300x300x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Dust A Sound Boy",
+     "title_with_featured": "Dust A Sound Boy",
+     "url": "https://genius.com/Super-beagle-dust-a-sound-boy-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/1631055",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+      "id": 1631055,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1587151445",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Super Beagle",
+      "url": "https://genius.com/artists/Super-beagle"
+     }
+    },
+    {
+     "annotation_count": 0,
+     "api_path": "/songs/4663038",
+     "full_title": "Cry of a Dreamer by\u00a0The\u00a0Sylvers",
+     "header_image_thumbnail_url": "https://images.genius.com/f3b381f36693fcd958dacfad97715822.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/f3b381f36693fcd958dacfad97715822.938x938x1.jpg",
+     "id": 4663038,
+     "lyrics_owner_id": 5234414,
+     "lyrics_state": "complete",
+     "path": "/The-sylvers-cry-of-a-dreamer-lyrics",
+     "pyongs_count": null,
+     "song_art_image_thumbnail_url": "https://images.genius.com/f3b381f36693fcd958dacfad97715822.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/f3b381f36693fcd958dacfad97715822.938x938x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 0,
+      "hot": false
+     },
+     "title": "Cry of a Dreamer",
+     "title_with_featured": "Cry of a Dreamer",
+     "url": "https://genius.com/The-sylvers-cry-of-a-dreamer-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/289726",
+      "header_image_url": "https://images.genius.com/e09e7722d305011f7d9e799592dfd6ea.250x250x1.png",
+      "id": 289726,
+      "image_url": "https://images.genius.com/2bef6681b5d1d75d453e3534d4b4863c.250x250x1.png",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Sylvers",
+      "url": "https://genius.com/artists/The-sylvers"
+     }
+    }
+   ]
+  },
+  {
+   "relationship_type": "sampled_in",
+   "type": "sampled_in",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolates",
+   "type": "interpolates",
+   "songs": []
+  },
+  {
+   "relationship_type": "interpolated_by",
+   "type": "interpolated_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "cover_of",
+   "type": "cover_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "covered_by",
+   "type": "covered_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "remix_of",
+   "type": "remix_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "remixed_by",
+   "type": "remixed_by",
+   "songs": []
+  },
+  {
+   "relationship_type": "live_version_of",
+   "type": "live_version_of",
+   "songs": []
+  },
+  {
+   "relationship_type": "performed_live_as",
+   "type": "performed_live_as",
+   "songs": []
+  }
+ ],
+ "verified_annotations_by": [],
+ "verified_contributors": [],
+ "verified_lyrics_by": [],
+ "writer_artists": [
+  {
+   "api_path": "/artists/458305",
+   "header_image_url": "https://images.genius.com/a22ce1beb3bb337da189bba49fcf6f8c.524x524x1.jpg",
+   "id": 458305,
+   "image_url": "https://images.genius.com/a22ce1beb3bb337da189bba49fcf6f8c.524x524x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Leon Sylvers III",
+   "url": "https://genius.com/artists/Leon-sylvers-iii"
+  },
+  {
+   "api_path": "/artists/643",
+   "header_image_url": "https://images.genius.com/1bc34e5deca22b440c5d186ef06720f2.1000x668x1.jpg",
+   "id": 643,
+   "image_url": "https://images.genius.com/66e8896c8c1bb069880e68e1abc3f74f.900x900x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Pusha T",
+   "url": "https://genius.com/artists/Pusha-t",
+   "iq": 53988
+  },
+  {
+   "api_path": "/artists/547",
+   "header_image_url": "https://images.genius.com/86239d3de00e4660583da44a02ffa821.820x546x1.jpg",
+   "id": 547,
+   "image_url": "https://images.genius.com/86239d3de00e4660583da44a02ffa821.820x546x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Killer Mike",
+   "url": "https://genius.com/artists/Killer-mike",
+   "iq": 100
+  },
+  {
+   "api_path": "/artists/6788",
+   "header_image_url": "https://images.genius.com/fffc972dfac559f4e7094bb485d1d13d.1000x326x1.png",
+   "id": 6788,
+   "image_url": "https://images.genius.com/2334fd49679f4ee0d692a8287cedb409.400x400x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Madlib",
+   "url": "https://genius.com/artists/Madlib"
+  },
+  {
+   "api_path": "/artists/939",
+   "header_image_url": "https://images.genius.com/eb0f9c196fe929a248bccba2428d22a8.510x504x1.png",
+   "id": 939,
+   "image_url": "https://images.genius.com/c9a0de64e8b42a8635ec2fe5ddd9c41c.899x899x1.jpg",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Freddie Gibbs",
+   "url": "https://genius.com/artists/Freddie-gibbs",
+   "iq": 5221
+  }
+ ],
+ "lyrics": "[Intro: Freddie Gibbs]\nIt's gon' speak for us\nIt should speak for itself, you know what I mean?\n\n[Verse 1: Freddie Gibbs]\nKane season\nFucking my pastor daughter in two Jesus pieces (Yeah)\nDropping this blow on the basement floor, my Yeezys squeaking (Yeah)\nRepping the fin, I pledge allegiance, undefeated\nFuck the forty acres and the mule, they gave us niggas the evils\nHot pots, spoons, and needles (Yeah)\nSold a piece of crack to polices, Mario Van Peebles (Uh)\nServing every prom queen and pookie with that vanilla smoothie (I was prom queen)\nScary Gary, my nigga, my neighborhood something like Fallujah (Yeah)\nVladimir banana clip, move with Russian collusion shooters (Uh)\nFuck a track, ho, selling that pussy on computers (Yeah)\nPimpin'll never die, Chad Butler in Heaven chuckin' deuces (Hold up)\nTrunk of deuce of hard white fish, then I made a wish (Yeah)\nA smoker scrubbin' down my kitchen, I'm never gon' wash a dish (Yes)\nIt's Mr. Clean, Pine-Sol, all Palmolive (Yeah)\nThese niggas don't know how hard you ridin' for they ass 'til you park it (Skrrt)\nIn 1998, I sold a Glock 19 chopper\n2018, I'm finna reclaim my fucking time and cop the Rollie flooded\nMaxine Waters, fuck your poison, keep your vaccines off us\nWe got a reality star in the goddamn office, quite like the Reagan days (Yeah)\nFernando said they used to move chickens in the Noriega days (Yeah)\nI disrespect his name and he signed my face with a razor blade (True story, nigga)\nBaby Tony, top of the family like Johnny Sacrimoni (Yeah)\nChoppin' up this block white top in some Yohji Yamamotos (Uh)\nWhoever kill him first gon' get promoted\nBoy, I was getting away with murder before Denzel fucked Viola\nGangsta Kane\n\n[Chorus: Killer Mike]\nYoung nigga, dope money, just have at it, nigga\nMake money, more money, mathematics, nigga\nBut the broke hoes, they coming for your money, nigga\nPlay low, I mean low like no money, nigga\nYoung nigga, dope money, just have at it, nigga\nMake money, more money, mathematics, nigga\nBut the broke hoes, they coming for your money, nigga\nPlay low, I mean low like no money, nigga\n\n[Verse 2: Pusha T]\nLook, real bars are the ill bars\nThese scars are the only real proof they couldn't kill gods\nMy coke hand is still sketchin' out my memoirs\nWhat I did to door panels on them Windstars\nGem stars, left cuts in the dinner plates\nIt's new stash spots, the AC don't just ventilate\nTake over your blocks, young niggas assimilate\nWe all break bread like going Dutch on a dinner date\nThe love of your life rap nigga wear fake watches\nThe serial number don't match the gift boxes\nThe bezel on her ballon bleu do the Tinashe\nThe bitch told me two-tone Rollies was too blas\u00e9 (Yugh)\nWay more chemical than political\nPTSD from what I weighed on the digital\nIt was snowfall and Reagan gave me the visual\nObama opened his doors knowing I was a criminal\nI took a risk, I took a brick\nTook a road trip to a Motel 6\nGet it wholesale and you know I won't tell shit\nRide coattails, then he really want that lit\nJust another in the mix, nigga, I'm rich, nigga\nTell me, is you Alpo or Mitch, nigga?\nBet it all, roulette, all on my wrist, nigga\nLike Cleo setting it off, taking your bitch, nigga, ooh\n\n[Chorus: Killer Mike]\nYoung nigga, dope money, just have at it, nigga\nMake money, more money, mathematics, nigga\nBut the broke hoes, they coming for your money, nigga\nPlay low, I mean low like no money, nigga\nYoung nigga, dope money, just have at it, nigga\nMake money, more money, mathematics, nigga\nBut the low low, like talking to baby mama, nigga\nFake rap, tell that bitch this is that show money, nigga\n\n[Outro]\nI know a guy in my neighborhood\nHe came home from work one day and caught his best friend in the hall with his wife\nThey had all day to go to bed\nPulled out a .45, shot both of 'em\nNext morning, his friend went down to the jail\nHe said, \"Fred, don't take it so hard\"\nHe said, \"It could have been worse\"\nHe said, \"What you mean, it could have been worse?\"\nHe said, \"Man, two people dead. I might get the electric chair. You tell me it could have been worse?\"\nHe said, \"Yeah, baby. It could have been worse.\"\nHe said, \"What you mean?\"\nHe said, \"Hell, if you'd have came Thursday instead of Friday, you'd have gotten me too\""
+}
