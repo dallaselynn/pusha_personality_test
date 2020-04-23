@@ -533,6 +533,8 @@
          $('button.next-question').addClass('is-hidden');
          $('button.previous-question').addClass('is-hidden');
          $('button.new-result').removeClass('is-hidden');
+         $('.menu-list a').removeClass('is-active');
+         $(`a[href="#results"]`).addClass('is-active');
          
          const idx = Math.floor(Math.random() * resultList.length);
          const result_data = resultList.splice(idx, 1)[0];
